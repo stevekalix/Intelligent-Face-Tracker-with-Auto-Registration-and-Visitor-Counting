@@ -1,0 +1,49 @@
+{
+  "video_source": "0",
+  "detector": {
+    "model_path": "yolov8n.pt",
+    "confidence_threshold": 0.5,
+    "iou_threshold": 0.45,
+    "device": "auto",
+    "input_size": 640
+  },
+  "recognizer": {
+    "model_name": "buffalo_s",
+    "similarity_threshold": 0.5,
+    "device": "auto",
+    "embedding_size": 512
+  },
+  "tracker": {
+    "track_thresh": 0.5,
+    "high_thresh": 0.6,
+    "match_thresh": 0.8,
+    "max_lost_frames": 30,
+    "frame_skip": 2,
+    "tracker_type": "bytetrack",
+    "track_buffer": 30
+  },
+  "database": {
+    "db_path": "visitor_system.db",
+    "db_type": "mysql",
+    "mysql": {
+      "host": "localhost",
+      "port": 3306,
+      "user": "root",
+      "password": "root123",
+      "database": "visitor_system"
+    }
+  },
+  "logging": {
+    "log_file": "events.log",
+    "entries_dir": "logs/entries",
+    "log_level": "INFO"
+  },
+  "display": {
+    "show_ui": true,
+    "window_name": "Intelligent Face Tracker & Visitor Counting",
+    "window_width": 1280,
+    "window_height": 720,
+    "save_output_video": false,
+    "output_video_path": "output_annotated.mp4"
+  }
+}

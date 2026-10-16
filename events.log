@@ -1,0 +1,1064 @@
+2026-10-16 14:03:28 [INFO] [MainPipeline]: ======================================================================
+2026-10-16 14:03:28 [INFO] [MainPipeline]: STARTING INTELLIGENT FACE TRACKER & VISITOR COUNTING PIPELINE
+2026-10-16 14:03:28 [INFO] [MainPipeline]: ======================================================================
+2026-10-16 14:03:28 [INFO] [MainPipeline]: Loaded 0 registered visitor identities from database.
+2026-10-16 14:05:31 [INFO] [MainPipeline]: ======================================================================
+2026-10-16 14:05:31 [INFO] [MainPipeline]: STARTING INTELLIGENT FACE TRACKER & VISITOR COUNTING PIPELINE
+2026-10-16 14:05:31 [INFO] [MainPipeline]: ======================================================================
+2026-10-16 14:05:31 [INFO] [MainPipeline]: Loaded 0 registered visitor identities from database.
+2026-10-16 14:10:27 [INFO] [MainPipeline]: ======================================================================
+2026-10-16 14:10:27 [INFO] [MainPipeline]: STARTING INTELLIGENT FACE TRACKER & VISITOR COUNTING PIPELINE
+2026-10-16 14:10:27 [INFO] [MainPipeline]: ======================================================================
+2026-10-16 14:10:27 [INFO] [MainPipeline]: Loaded 0 registered visitor identities from database.
+2026-10-16 14:10:33 [INFO] [MainPipeline]: Attempting to connect to video source: rtsp://admin:password@192.168.1.100:554/stream1
+2026-10-16 14:11:28 [INFO] [MainPipeline]: ======================================================================
+2026-10-16 14:11:28 [INFO] [MainPipeline]: STARTING INTELLIGENT FACE TRACKER & VISITOR COUNTING PIPELINE
+2026-10-16 14:11:28 [INFO] [MainPipeline]: ======================================================================
+2026-10-16 14:11:28 [INFO] [MainPipeline]: Loaded 0 registered visitor identities from database.
+2026-10-16 14:11:34 [INFO] [MainPipeline]: Attempting to connect to video source: 0
+2026-10-16 14:11:37 [INFO] [MainPipeline]: Stream opened successfully. Resolution: 640x480 | FPS: 30.0 | Total Frames: -1
+2026-10-16 14:11:41 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:11:41 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141141_762.jpg
+2026-10-16 14:11:41 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0001 | Total Count: 1
+2026-10-16 14:11:42 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 2 recognized as VISITOR_0001 | Similarity Score: 0.7807
+2026-10-16 14:11:42 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:42 | Conf: 0.78 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141142_952.jpg
+2026-10-16 14:11:43 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 3 recognized as VISITOR_0001 | Similarity Score: 0.8193
+2026-10-16 14:11:43 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:43 | Conf: 0.82 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141143_210.jpg
+2026-10-16 14:11:44 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 4 recognized as VISITOR_0001 | Similarity Score: 0.8653
+2026-10-16 14:11:44 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:44 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141144_288.jpg
+2026-10-16 14:11:44 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 5 recognized as VISITOR_0001 | Similarity Score: 0.8360
+2026-10-16 14:11:44 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:44 | Conf: 0.84 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141144_527.jpg
+2026-10-16 14:11:44 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 6 recognized as VISITOR_0001 | Similarity Score: 0.8012
+2026-10-16 14:11:44 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:44 | Conf: 0.80 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141144_751.jpg
+2026-10-16 14:11:44 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0002 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:11:44 | Conf: 0.79 | Image: logs\entries\2026-10-16\person_VISITOR_0002_141144_838.jpg
+2026-10-16 14:11:44 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0002 | Total Count: 2
+2026-10-16 14:11:45 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 9 recognized as VISITOR_0001 | Similarity Score: 0.8605
+2026-10-16 14:11:45 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:45 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141145_501.jpg
+2026-10-16 14:11:45 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:11:45 | Session Duration: 2.8 seconds
+2026-10-16 14:11:45 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:11:45 | Session Duration: 2.9 seconds
+2026-10-16 14:11:45 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 10 recognized as VISITOR_0002 | Similarity Score: 0.6745
+2026-10-16 14:11:45 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0002 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:45 | Conf: 0.67 | Image: logs\entries\2026-10-16\person_VISITOR_0002_141145_926.jpg
+2026-10-16 14:11:46 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 8 recognized as VISITOR_0001 | Similarity Score: 0.8446
+2026-10-16 14:11:46 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:46 | Conf: 0.84 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141146_158.jpg
+2026-10-16 14:11:46 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 11 recognized as VISITOR_0001 | Similarity Score: 0.8536
+2026-10-16 14:11:46 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:46 | Conf: 0.85 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141146_378.jpg
+2026-10-16 14:11:46 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:11:46 | Session Duration: 2.0 seconds
+2026-10-16 14:11:46 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:11:46 | Session Duration: 2.0 seconds
+2026-10-16 14:11:46 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 12 recognized as VISITOR_0001 | Similarity Score: 0.8571
+2026-10-16 14:11:46 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:46 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141146_746.jpg
+2026-10-16 14:11:46 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:11:46 | Session Duration: 1.7 seconds
+2026-10-16 14:11:47 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 13 recognized as VISITOR_0001 | Similarity Score: 0.8459
+2026-10-16 14:11:47 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:47 | Conf: 0.85 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141147_271.jpg
+2026-10-16 14:11:47 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0002 | Time: 2026-10-16 14:11:47 | Session Duration: 1.7 seconds
+2026-10-16 14:11:47 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 14 recognized as VISITOR_0002 | Similarity Score: 0.6732
+2026-10-16 14:11:47 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0002 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:47 | Conf: 0.67 | Image: logs\entries\2026-10-16\person_VISITOR_0002_141147_682.jpg
+2026-10-16 14:11:47 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:11:47 | Session Duration: 2.4 seconds
+2026-10-16 14:11:47 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0002 | Time: 2026-10-16 14:11:47 | Session Duration: 3.3 seconds
+2026-10-16 14:11:48 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:11:48 | Session Duration: 1.6 seconds
+2026-10-16 14:11:48 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 15 recognized as VISITOR_0001 | Similarity Score: 0.8615
+2026-10-16 14:11:48 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:48 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141148_661.jpg
+2026-10-16 14:11:49 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0002 | Time: 2026-10-16 14:11:48 | Session Duration: 1.6 seconds
+2026-10-16 14:11:49 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:11:49 | Session Duration: 2.2 seconds
+2026-10-16 14:11:49 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 16 recognized as VISITOR_0001 | Similarity Score: 0.8622
+2026-10-16 14:11:49 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:49 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141149_400.jpg
+2026-10-16 14:11:49 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 17 recognized as VISITOR_0002 | Similarity Score: 0.6751
+2026-10-16 14:11:49 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0002 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:49 | Conf: 0.68 | Image: logs\entries\2026-10-16\person_VISITOR_0002_141149_675.jpg
+2026-10-16 14:11:49 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 18 recognized as VISITOR_0001 | Similarity Score: 0.8650
+2026-10-16 14:11:49 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:49 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141149_964.jpg
+2026-10-16 14:11:50 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:11:50 | Session Duration: 1.5 seconds
+2026-10-16 14:11:50 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 19 recognized as VISITOR_0001 | Similarity Score: 0.8596
+2026-10-16 14:11:50 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:50 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141150_296.jpg
+2026-10-16 14:11:50 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:11:50 | Session Duration: 4.4 seconds
+2026-10-16 14:11:51 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:11:51 | Session Duration: 1.5 seconds
+2026-10-16 14:11:51 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0002 | Time: 2026-10-16 14:11:51 | Session Duration: 1.9 seconds
+2026-10-16 14:11:51 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 21 recognized as VISITOR_0001 | Similarity Score: 0.8555
+2026-10-16 14:11:51 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:51 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141151_505.jpg
+2026-10-16 14:11:51 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0003 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:11:51 | Conf: 0.61 | Image: logs\entries\2026-10-16\person_VISITOR_0003_141151_791.jpg
+2026-10-16 14:11:51 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0003 | Total Count: 3
+2026-10-16 14:11:51 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:11:51 | Session Duration: 1.7 seconds
+2026-10-16 14:11:52 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 25 recognized as VISITOR_0002 | Similarity Score: 0.7173
+2026-10-16 14:11:52 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0002 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:52 | Conf: 0.72 | Image: logs\entries\2026-10-16\person_VISITOR_0002_141152_288.jpg
+2026-10-16 14:11:52 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 26 recognized as VISITOR_0003 | Similarity Score: 0.5973
+2026-10-16 14:11:52 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0003 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:52 | Conf: 0.60 | Image: logs\entries\2026-10-16\person_VISITOR_0003_141152_435.jpg
+2026-10-16 14:11:52 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:11:52 | Session Duration: 3.3 seconds
+2026-10-16 14:11:52 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 24 recognized as VISITOR_0003 | Similarity Score: 0.5908
+2026-10-16 14:11:52 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0003 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:52 | Conf: 0.59 | Image: logs\entries\2026-10-16\person_VISITOR_0003_141152_938.jpg
+2026-10-16 14:11:53 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 27 recognized as VISITOR_0003 | Similarity Score: 0.5908
+2026-10-16 14:11:53 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0003 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:53 | Conf: 0.59 | Image: logs\entries\2026-10-16\person_VISITOR_0003_141153_061.jpg
+2026-10-16 14:11:53 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 28 recognized as VISITOR_0003 | Similarity Score: 0.5908
+2026-10-16 14:11:53 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0003 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:53 | Conf: 0.59 | Image: logs\entries\2026-10-16\person_VISITOR_0003_141153_180.jpg
+2026-10-16 14:11:53 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0004 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:11:53 | Conf: 0.61 | Image: logs\entries\2026-10-16\person_VISITOR_0004_141153_847.jpg
+2026-10-16 14:11:53 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0004 | Total Count: 4
+2026-10-16 14:11:53 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 30 recognized as VISITOR_0004 | Similarity Score: 1.0000
+2026-10-16 14:11:54 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0004 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:53 | Conf: 1.00 | Image: logs\entries\2026-10-16\person_VISITOR_0004_141153_993.jpg
+2026-10-16 14:11:54 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 31 recognized as VISITOR_0004 | Similarity Score: 1.0000
+2026-10-16 14:11:54 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0004 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:54 | Conf: 1.00 | Image: logs\entries\2026-10-16\person_VISITOR_0004_141154_120.jpg
+2026-10-16 14:11:54 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:11:54 | Session Duration: 2.9 seconds
+2026-10-16 14:11:54 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0002 | Time: 2026-10-16 14:11:54 | Session Duration: 2.1 seconds
+2026-10-16 14:11:54 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 32 recognized as VISITOR_0004 | Similarity Score: 0.5436
+2026-10-16 14:11:54 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0004 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:54 | Conf: 0.54 | Image: logs\entries\2026-10-16\person_VISITOR_0004_141154_507.jpg
+2026-10-16 14:11:54 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0003 | Time: 2026-10-16 14:11:54 | Session Duration: 2.6 seconds
+2026-10-16 14:11:54 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 33 recognized as VISITOR_0004 | Similarity Score: 0.5366
+2026-10-16 14:11:54 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0004 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:54 | Conf: 0.54 | Image: logs\entries\2026-10-16\person_VISITOR_0004_141154_879.jpg
+2026-10-16 14:11:54 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0003 | Time: 2026-10-16 14:11:54 | Session Duration: 2.2 seconds
+2026-10-16 14:11:55 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0003 | Time: 2026-10-16 14:11:55 | Session Duration: 2.3 seconds
+2026-10-16 14:11:55 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 34 recognized as VISITOR_0004 | Similarity Score: 0.5529
+2026-10-16 14:11:55 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0004 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:55 | Conf: 0.55 | Image: logs\entries\2026-10-16\person_VISITOR_0004_141155_400.jpg
+2026-10-16 14:11:55 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0003 | Time: 2026-10-16 14:11:55 | Session Duration: 3.5 seconds
+2026-10-16 14:11:55 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 35 recognized as VISITOR_0003 | Similarity Score: 0.5823
+2026-10-16 14:11:55 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0003 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:55 | Conf: 0.58 | Image: logs\entries\2026-10-16\person_VISITOR_0003_141155_647.jpg
+2026-10-16 14:11:55 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0005 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:11:55 | Conf: 0.69 | Image: logs\entries\2026-10-16\person_VISITOR_0005_141155_704.jpg
+2026-10-16 14:11:55 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0005 | Total Count: 5
+2026-10-16 14:11:55 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0004 | Time: 2026-10-16 14:11:55 | Session Duration: 2.2 seconds
+2026-10-16 14:11:56 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0006 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:11:56 | Conf: 0.67 | Image: logs\entries\2026-10-16\person_VISITOR_0006_141156_080.jpg
+2026-10-16 14:11:56 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0006 | Total Count: 6
+2026-10-16 14:11:56 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0004 | Time: 2026-10-16 14:11:56 | Session Duration: 1.8 seconds
+2026-10-16 14:11:56 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 38 recognized as VISITOR_0001 | Similarity Score: 0.8465
+2026-10-16 14:11:56 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:56 | Conf: 0.85 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141156_453.jpg
+2026-10-16 14:11:56 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0004 | Time: 2026-10-16 14:11:56 | Session Duration: 2.1 seconds
+2026-10-16 14:11:56 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0004 | Time: 2026-10-16 14:11:56 | Session Duration: 2.9 seconds
+2026-10-16 14:11:56 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0004 | Time: 2026-10-16 14:11:56 | Session Duration: 3.2 seconds
+2026-10-16 14:11:56 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0003 | Time: 2026-10-16 14:11:56 | Session Duration: 1.8 seconds
+2026-10-16 14:11:57 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 39 recognized as VISITOR_0004 | Similarity Score: 0.6258
+2026-10-16 14:11:57 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0004 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:57 | Conf: 0.63 | Image: logs\entries\2026-10-16\person_VISITOR_0004_141157_177.jpg
+2026-10-16 14:11:57 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 40 recognized as VISITOR_0001 | Similarity Score: 0.7465
+2026-10-16 14:11:57 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:57 | Conf: 0.75 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141157_551.jpg
+2026-10-16 14:11:57 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0004 | Time: 2026-10-16 14:11:57 | Session Duration: 2.5 seconds
+2026-10-16 14:11:57 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0006 | Time: 2026-10-16 14:11:57 | Session Duration: 1.9 seconds
+2026-10-16 14:11:58 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:11:58 | Session Duration: 2.0 seconds
+2026-10-16 14:11:59 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 42 recognized as VISITOR_0001 | Similarity Score: 0.6818
+2026-10-16 14:11:59 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:59 | Conf: 0.68 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141159_154.jpg
+2026-10-16 14:11:59 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 43 recognized as VISITOR_0003 | Similarity Score: 0.5099
+2026-10-16 14:11:59 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0003 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:11:59 | Conf: 0.51 | Image: logs\entries\2026-10-16\person_VISITOR_0003_141159_268.jpg
+2026-10-16 14:11:59 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0007 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:11:59 | Conf: 0.52 | Image: logs\entries\2026-10-16\person_VISITOR_0007_141159_581.jpg
+2026-10-16 14:11:59 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0007 | Total Count: 7
+2026-10-16 14:11:59 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0008 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:11:59 | Conf: 0.52 | Image: logs\entries\2026-10-16\person_VISITOR_0008_141159_633.jpg
+2026-10-16 14:11:59 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0008 | Total Count: 8
+2026-10-16 14:11:59 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:11:59 | Session Duration: 3.0 seconds
+2026-10-16 14:12:00 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0005 | Time: 2026-10-16 14:12:00 | Session Duration: 4.8 seconds
+2026-10-16 14:12:00 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:00 | Conf: 0.73 | Image: logs\entries\2026-10-16\person_VISITOR_0009_141200_347.jpg
+2026-10-16 14:12:00 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0009 | Total Count: 9
+2026-10-16 14:12:00 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:00 | Session Duration: 16.3 seconds
+2026-10-16 14:12:00 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:00 | Session Duration: 1.8 seconds
+2026-10-16 14:12:00 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0003 | Time: 2026-10-16 14:12:00 | Session Duration: 1.9 seconds
+2026-10-16 14:12:01 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:01 | Session Duration: 19.4 seconds
+2026-10-16 14:12:01 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0010 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:01 | Conf: 0.71 | Image: logs\entries\2026-10-16\person_VISITOR_0010_141201_250.jpg
+2026-10-16 14:12:01 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0010 | Total Count: 10
+2026-10-16 14:12:01 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 46 recognized as VISITOR_0010 | Similarity Score: 0.5503
+2026-10-16 14:12:01 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0010 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:01 | Conf: 0.55 | Image: logs\entries\2026-10-16\person_VISITOR_0010_141201_460.jpg
+2026-10-16 14:12:01 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0007 | Time: 2026-10-16 14:12:01 | Session Duration: 2.9 seconds
+2026-10-16 14:12:01 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 48 recognized as VISITOR_0009 | Similarity Score: 0.7266
+2026-10-16 14:12:01 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:01 | Conf: 0.73 | Image: logs\entries\2026-10-16\person_VISITOR_0009_141201_797.jpg
+2026-10-16 14:12:01 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0003 | Time: 2026-10-16 14:12:01 | Session Duration: 10.2 seconds
+2026-10-16 14:12:02 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0004 | Time: 2026-10-16 14:12:02 | Session Duration: 5.2 seconds
+2026-10-16 14:12:02 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0011 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:02 | Conf: 0.55 | Image: logs\entries\2026-10-16\person_VISITOR_0011_141202_509.jpg
+2026-10-16 14:12:02 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0011 | Total Count: 11
+2026-10-16 14:12:02 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 50 recognized as VISITOR_0009 | Similarity Score: 0.6453
+2026-10-16 14:12:02 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:02 | Conf: 0.65 | Image: logs\entries\2026-10-16\person_VISITOR_0009_141202_645.jpg
+2026-10-16 14:12:02 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0012 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:02 | Conf: 0.62 | Image: logs\entries\2026-10-16\person_VISITOR_0012_141202_892.jpg
+2026-10-16 14:12:02 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0012 | Total Count: 12
+2026-10-16 14:12:03 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 51 recognized as VISITOR_0011 | Similarity Score: 0.5248
+2026-10-16 14:12:03 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0011 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:03 | Conf: 0.52 | Image: logs\entries\2026-10-16\person_VISITOR_0011_141203_159.jpg
+2026-10-16 14:12:03 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:12:03 | Session Duration: 2.0 seconds
+2026-10-16 14:12:03 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0013 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:03 | Conf: 0.57 | Image: logs\entries\2026-10-16\person_VISITOR_0013_141203_730.jpg
+2026-10-16 14:12:03 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0013 | Total Count: 13
+2026-10-16 14:12:04 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 54 recognized as VISITOR_0013 | Similarity Score: 0.6732
+2026-10-16 14:12:04 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0013 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:04 | Conf: 0.67 | Image: logs\entries\2026-10-16\person_VISITOR_0013_141204_051.jpg
+2026-10-16 14:12:04 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 55 recognized as VISITOR_0013 | Similarity Score: 0.6736
+2026-10-16 14:12:04 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0013 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:04 | Conf: 0.67 | Image: logs\entries\2026-10-16\person_VISITOR_0013_141204_129.jpg
+2026-10-16 14:12:04 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0011 | Time: 2026-10-16 14:12:04 | Session Duration: 2.3 seconds
+2026-10-16 14:12:04 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:12:04 | Session Duration: 2.2 seconds
+2026-10-16 14:12:04 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0008 | Time: 2026-10-16 14:12:04 | Session Duration: 5.1 seconds
+2026-10-16 14:12:04 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0011 | Time: 2026-10-16 14:12:04 | Session Duration: 2.1 seconds
+2026-10-16 14:12:04 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0014 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:04 | Conf: 0.60 | Image: logs\entries\2026-10-16\person_VISITOR_0014_141204_737.jpg
+2026-10-16 14:12:04 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0014 | Total Count: 14
+2026-10-16 14:12:04 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0010 | Time: 2026-10-16 14:12:04 | Session Duration: 3.9 seconds
+2026-10-16 14:12:04 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0010 | Time: 2026-10-16 14:12:04 | Session Duration: 3.8 seconds
+2026-10-16 14:12:05 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0013 | Time: 2026-10-16 14:12:05 | Session Duration: 1.7 seconds
+2026-10-16 14:12:05 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 57 recognized as VISITOR_0001 | Similarity Score: 0.6960
+2026-10-16 14:12:05 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:05 | Conf: 0.70 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141205_393.jpg
+2026-10-16 14:12:05 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 58 recognized as VISITOR_0014 | Similarity Score: 0.6474
+2026-10-16 14:12:05 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0014 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:05 | Conf: 0.65 | Image: logs\entries\2026-10-16\person_VISITOR_0014_141205_504.jpg
+2026-10-16 14:12:05 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0013 | Time: 2026-10-16 14:12:05 | Session Duration: 1.9 seconds
+2026-10-16 14:12:06 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0015 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:06 | Conf: 0.75 | Image: logs\entries\2026-10-16\person_VISITOR_0015_141206_248.jpg
+2026-10-16 14:12:06 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0015 | Total Count: 15
+2026-10-16 14:12:06 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 60 recognized as VISITOR_0013 | Similarity Score: 0.5344
+2026-10-16 14:12:06 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0013 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:06 | Conf: 0.53 | Image: logs\entries\2026-10-16\person_VISITOR_0013_141206_673.jpg
+2026-10-16 14:12:06 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:06 | Session Duration: 1.5 seconds
+2026-10-16 14:12:06 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0014 | Time: 2026-10-16 14:12:06 | Session Duration: 1.5 seconds
+2026-10-16 14:12:06 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0013 | Time: 2026-10-16 14:12:06 | Session Duration: 2.9 seconds
+2026-10-16 14:12:07 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 61 recognized as VISITOR_0013 | Similarity Score: 0.5203
+2026-10-16 14:12:07 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0013 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:07 | Conf: 0.52 | Image: logs\entries\2026-10-16\person_VISITOR_0013_141207_034.jpg
+2026-10-16 14:12:07 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0014 | Time: 2026-10-16 14:12:07 | Session Duration: 2.9 seconds
+2026-10-16 14:12:07 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0016 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:07 | Conf: 0.59 | Image: logs\entries\2026-10-16\person_VISITOR_0016_141207_535.jpg
+2026-10-16 14:12:07 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0016 | Total Count: 16
+2026-10-16 14:12:07 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 63 recognized as VISITOR_0001 | Similarity Score: 0.7273
+2026-10-16 14:12:07 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:07 | Conf: 0.73 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141207_803.jpg
+2026-10-16 14:12:07 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0015 | Time: 2026-10-16 14:12:07 | Session Duration: 1.8 seconds
+2026-10-16 14:12:08 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0017 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:08 | Conf: 0.76 | Image: logs\entries\2026-10-16\person_VISITOR_0017_141208_260.jpg
+2026-10-16 14:12:08 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0017 | Total Count: 17
+2026-10-16 14:12:08 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0013 | Time: 2026-10-16 14:12:08 | Session Duration: 2.2 seconds
+2026-10-16 14:12:08 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0013 | Time: 2026-10-16 14:12:08 | Session Duration: 1.5 seconds
+2026-10-16 14:12:08 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 67 recognized as VISITOR_0001 | Similarity Score: 0.7675
+2026-10-16 14:12:08 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:08 | Conf: 0.77 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141208_658.jpg
+2026-10-16 14:12:08 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 69 recognized as VISITOR_0001 | Similarity Score: 0.7675
+2026-10-16 14:12:08 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:08 | Conf: 0.77 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141208_781.jpg
+2026-10-16 14:12:09 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0018 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:08 | Conf: 0.69 | Image: logs\entries\2026-10-16\person_VISITOR_0018_141208_992.jpg
+2026-10-16 14:12:09 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0018 | Total Count: 18
+2026-10-16 14:12:09 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 70 recognized as VISITOR_0018 | Similarity Score: 0.9061
+2026-10-16 14:12:09 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0018 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:09 | Conf: 0.91 | Image: logs\entries\2026-10-16\person_VISITOR_0018_141209_138.jpg
+2026-10-16 14:12:09 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0016 | Time: 2026-10-16 14:12:09 | Session Duration: 2.1 seconds
+2026-10-16 14:12:09 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0019 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:09 | Conf: 0.56 | Image: logs\entries\2026-10-16\person_VISITOR_0019_141209_791.jpg
+2026-10-16 14:12:09 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0019 | Total Count: 19
+2026-10-16 14:12:09 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0012 | Time: 2026-10-16 14:12:09 | Session Duration: 7.1 seconds
+2026-10-16 14:12:09 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:09 | Session Duration: 2.4 seconds
+2026-10-16 14:12:09 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0017 | Time: 2026-10-16 14:12:09 | Session Duration: 1.7 seconds
+2026-10-16 14:12:10 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 71 recognized as VISITOR_0001 | Similarity Score: 0.8261
+2026-10-16 14:12:10 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:10 | Conf: 0.83 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141210_080.jpg
+2026-10-16 14:12:10 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:10 | Session Duration: 1.9 seconds
+2026-10-16 14:12:10 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0020 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:10 | Conf: 0.52 | Image: logs\entries\2026-10-16\person_VISITOR_0020_141210_725.jpg
+2026-10-16 14:12:10 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0020 | Total Count: 20
+2026-10-16 14:12:10 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0018 | Time: 2026-10-16 14:12:10 | Session Duration: 2.3 seconds
+2026-10-16 14:12:11 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0019 | Time: 2026-10-16 14:12:10 | Session Duration: 2.8 seconds
+2026-10-16 14:12:11 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0018 | Time: 2026-10-16 14:12:11 | Session Duration: 2.4 seconds
+2026-10-16 14:12:11 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 74 recognized as VISITOR_0001 | Similarity Score: 0.8495
+2026-10-16 14:12:11 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:11 | Conf: 0.85 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141211_277.jpg
+2026-10-16 14:12:11 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:11 | Session Duration: 1.6 seconds
+2026-10-16 14:12:11 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 75 recognized as VISITOR_0001 | Similarity Score: 0.8433
+2026-10-16 14:12:11 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:11 | Conf: 0.84 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141211_679.jpg
+2026-10-16 14:12:11 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 76 recognized as VISITOR_0001 | Similarity Score: 0.8433
+2026-10-16 14:12:11 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:11 | Conf: 0.84 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141211_789.jpg
+2026-10-16 14:12:12 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 77 recognized as VISITOR_0001 | Similarity Score: 0.8385
+2026-10-16 14:12:12 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:12 | Conf: 0.84 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141212_209.jpg
+2026-10-16 14:12:12 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:12 | Session Duration: 3.8 seconds
+2026-10-16 14:12:12 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0020 | Time: 2026-10-16 14:12:12 | Session Duration: 1.8 seconds
+2026-10-16 14:12:13 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0021 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:13 | Conf: 0.70 | Image: logs\entries\2026-10-16\person_VISITOR_0021_141213_057.jpg
+2026-10-16 14:12:13 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0021 | Total Count: 21
+2026-10-16 14:12:13 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 80 recognized as VISITOR_0021 | Similarity Score: 0.9270
+2026-10-16 14:12:13 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0021 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:13 | Conf: 0.93 | Image: logs\entries\2026-10-16\person_VISITOR_0021_141213_200.jpg
+2026-10-16 14:12:13 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 81 recognized as VISITOR_0018 | Similarity Score: 0.5608
+2026-10-16 14:12:13 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0018 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:13 | Conf: 0.56 | Image: logs\entries\2026-10-16\person_VISITOR_0018_141213_606.jpg
+2026-10-16 14:12:13 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0022 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:13 | Conf: 0.70 | Image: logs\entries\2026-10-16\person_VISITOR_0022_141213_821.jpg
+2026-10-16 14:12:13 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0022 | Total Count: 22
+2026-10-16 14:12:13 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:13 | Session Duration: 1.9 seconds
+2026-10-16 14:12:14 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 83 recognized as VISITOR_0022 | Similarity Score: 0.5359
+2026-10-16 14:12:14 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0022 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:14 | Conf: 0.54 | Image: logs\entries\2026-10-16\person_VISITOR_0022_141214_099.jpg
+2026-10-16 14:12:14 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:14 | Session Duration: 2.7 seconds
+2026-10-16 14:12:14 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:14 | Session Duration: 3.2 seconds
+2026-10-16 14:12:14 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:14 | Session Duration: 2.8 seconds
+2026-10-16 14:12:14 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 84 recognized as VISITOR_0018 | Similarity Score: 0.6526
+2026-10-16 14:12:14 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0018 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:14 | Conf: 0.65 | Image: logs\entries\2026-10-16\person_VISITOR_0018_141214_496.jpg
+2026-10-16 14:12:14 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 85 recognized as VISITOR_0001 | Similarity Score: 0.7794
+2026-10-16 14:12:14 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:14 | Conf: 0.78 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141214_980.jpg
+2026-10-16 14:12:15 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 86 recognized as VISITOR_0001 | Similarity Score: 0.7794
+2026-10-16 14:12:15 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:15 | Conf: 0.78 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141215_101.jpg
+2026-10-16 14:12:15 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0021 | Time: 2026-10-16 14:12:15 | Session Duration: 2.2 seconds
+2026-10-16 14:12:15 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0021 | Time: 2026-10-16 14:12:15 | Session Duration: 2.6 seconds
+2026-10-16 14:12:15 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 87 recognized as VISITOR_0016 | Similarity Score: 0.5826
+2026-10-16 14:12:15 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0016 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:15 | Conf: 0.58 | Image: logs\entries\2026-10-16\person_VISITOR_0016_141215_558.jpg
+2026-10-16 14:12:15 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0018 | Time: 2026-10-16 14:12:15 | Session Duration: 2.3 seconds
+2026-10-16 14:12:15 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 89 recognized as VISITOR_0016 | Similarity Score: 0.5593
+2026-10-16 14:12:15 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0016 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:15 | Conf: 0.56 | Image: logs\entries\2026-10-16\person_VISITOR_0016_141215_901.jpg
+2026-10-16 14:12:16 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0018 | Time: 2026-10-16 14:12:16 | Session Duration: 2.0 seconds
+2026-10-16 14:12:16 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0022 | Time: 2026-10-16 14:12:16 | Session Duration: 2.4 seconds
+2026-10-16 14:12:16 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:16 | Session Duration: 1.8 seconds
+2026-10-16 14:12:16 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0016 | Time: 2026-10-16 14:12:16 | Session Duration: 1.2 seconds
+2026-10-16 14:12:17 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:17 | Session Duration: 2.5 seconds
+2026-10-16 14:12:17 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0023 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:17 | Conf: 0.52 | Image: logs\entries\2026-10-16\person_VISITOR_0023_141217_526.jpg
+2026-10-16 14:12:17 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0023 | Total Count: 23
+2026-10-16 14:12:17 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 91 recognized as VISITOR_0023 | Similarity Score: 0.5361
+2026-10-16 14:12:17 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0023 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:17 | Conf: 0.54 | Image: logs\entries\2026-10-16\person_VISITOR_0023_141217_941.jpg
+2026-10-16 14:12:18 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 92 recognized as VISITOR_0001 | Similarity Score: 0.8570
+2026-10-16 14:12:18 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:18 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141218_278.jpg
+2026-10-16 14:12:18 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 93 recognized as VISITOR_0018 | Similarity Score: 0.5693
+2026-10-16 14:12:18 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0018 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:18 | Conf: 0.57 | Image: logs\entries\2026-10-16\person_VISITOR_0018_141218_494.jpg
+2026-10-16 14:12:18 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0016 | Time: 2026-10-16 14:12:18 | Session Duration: 4.0 seconds
+2026-10-16 14:12:19 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 94 recognized as VISITOR_0017 | Similarity Score: 0.5182
+2026-10-16 14:12:19 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0017 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:19 | Conf: 0.52 | Image: logs\entries\2026-10-16\person_VISITOR_0017_141219_261.jpg
+2026-10-16 14:12:19 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0023 | Time: 2026-10-16 14:12:19 | Session Duration: 2.0 seconds
+2026-10-16 14:12:19 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 95 recognized as VISITOR_0020 | Similarity Score: 0.5563
+2026-10-16 14:12:19 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0020 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:19 | Conf: 0.56 | Image: logs\entries\2026-10-16\person_VISITOR_0020_141219_671.jpg
+2026-10-16 14:12:19 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0024 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:19 | Conf: 0.62 | Image: logs\entries\2026-10-16\person_VISITOR_0024_141219_763.jpg
+2026-10-16 14:12:19 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0024 | Total Count: 24
+2026-10-16 14:12:19 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:19 | Session Duration: 1.7 seconds
+2026-10-16 14:12:19 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0018 | Time: 2026-10-16 14:12:19 | Session Duration: 1.6 seconds
+2026-10-16 14:12:20 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0023 | Time: 2026-10-16 14:12:20 | Session Duration: 2.5 seconds
+2026-10-16 14:12:20 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 97 recognized as VISITOR_0018 | Similarity Score: 0.5668
+2026-10-16 14:12:20 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0018 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:20 | Conf: 0.57 | Image: logs\entries\2026-10-16\person_VISITOR_0018_141220_378.jpg
+2026-10-16 14:12:20 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 98 recognized as VISITOR_0019 | Similarity Score: 0.5015
+2026-10-16 14:12:20 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0019 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:20 | Conf: 0.50 | Image: logs\entries\2026-10-16\person_VISITOR_0019_141220_521.jpg
+2026-10-16 14:12:20 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0017 | Time: 2026-10-16 14:12:20 | Session Duration: 1.8 seconds
+2026-10-16 14:12:21 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0020 | Time: 2026-10-16 14:12:21 | Session Duration: 1.5 seconds
+2026-10-16 14:12:21 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 99 recognized as VISITOR_0024 | Similarity Score: 0.5482
+2026-10-16 14:12:21 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0024 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:21 | Conf: 0.55 | Image: logs\entries\2026-10-16\person_VISITOR_0024_141221_250.jpg
+2026-10-16 14:12:21 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 101 recognized as VISITOR_0018 | Similarity Score: 0.5588
+2026-10-16 14:12:21 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0018 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:21 | Conf: 0.56 | Image: logs\entries\2026-10-16\person_VISITOR_0018_141221_332.jpg
+2026-10-16 14:12:21 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0024 | Time: 2026-10-16 14:12:21 | Session Duration: 1.9 seconds
+2026-10-16 14:12:21 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0025 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:21 | Conf: 0.61 | Image: logs\entries\2026-10-16\person_VISITOR_0025_141221_546.jpg
+2026-10-16 14:12:21 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0025 | Total Count: 25
+2026-10-16 14:12:21 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 102 recognized as VISITOR_0001 | Similarity Score: 0.7163
+2026-10-16 14:12:21 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:21 | Conf: 0.72 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141221_818.jpg
+2026-10-16 14:12:22 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0018 | Time: 2026-10-16 14:12:22 | Session Duration: 1.9 seconds
+2026-10-16 14:12:22 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0026 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:22 | Conf: 0.73 | Image: logs\entries\2026-10-16\person_VISITOR_0026_141222_251.jpg
+2026-10-16 14:12:22 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0026 | Total Count: 26
+2026-10-16 14:12:22 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0019 | Time: 2026-10-16 14:12:22 | Session Duration: 2.1 seconds
+2026-10-16 14:12:22 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0027 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:22 | Conf: 0.55 | Image: logs\entries\2026-10-16\person_VISITOR_0027_141222_659.jpg
+2026-10-16 14:12:22 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0027 | Total Count: 27
+2026-10-16 14:12:23 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0025 | Time: 2026-10-16 14:12:23 | Session Duration: 2.0 seconds
+2026-10-16 14:12:23 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0018 | Time: 2026-10-16 14:12:23 | Session Duration: 2.1 seconds
+2026-10-16 14:12:23 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 105 recognized as VISITOR_0001 | Similarity Score: 0.6905
+2026-10-16 14:12:23 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:23 | Conf: 0.69 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141223_299.jpg
+2026-10-16 14:12:23 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0026 | Time: 2026-10-16 14:12:23 | Session Duration: 1.5 seconds
+2026-10-16 14:12:23 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 107 recognized as VISITOR_0025 | Similarity Score: 0.5040
+2026-10-16 14:12:23 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0025 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:23 | Conf: 0.50 | Image: logs\entries\2026-10-16\person_VISITOR_0025_141223_758.jpg
+2026-10-16 14:12:23 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 106 recognized as VISITOR_0024 | Similarity Score: 0.5687
+2026-10-16 14:12:24 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0024 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:23 | Conf: 0.57 | Image: logs\entries\2026-10-16\person_VISITOR_0024_141223_993.jpg
+2026-10-16 14:12:24 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0027 | Time: 2026-10-16 14:12:24 | Session Duration: 1.8 seconds
+2026-10-16 14:12:24 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 108 recognized as VISITOR_0009 | Similarity Score: 0.6690
+2026-10-16 14:12:24 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:24 | Conf: 0.67 | Image: logs\entries\2026-10-16\person_VISITOR_0009_141224_548.jpg
+2026-10-16 14:12:24 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:24 | Session Duration: 3.1 seconds
+2026-10-16 14:12:24 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 109 recognized as VISITOR_0009 | Similarity Score: 0.6840
+2026-10-16 14:12:24 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:24 | Conf: 0.68 | Image: logs\entries\2026-10-16\person_VISITOR_0009_141224_920.jpg
+2026-10-16 14:12:25 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 110 recognized as VISITOR_0018 | Similarity Score: 0.5321
+2026-10-16 14:12:25 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0018 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:25 | Conf: 0.53 | Image: logs\entries\2026-10-16\person_VISITOR_0018_141225_062.jpg
+2026-10-16 14:12:25 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:25 | Session Duration: 2.0 seconds
+2026-10-16 14:12:25 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0028 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:25 | Conf: 0.65 | Image: logs\entries\2026-10-16\person_VISITOR_0028_141225_286.jpg
+2026-10-16 14:12:25 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0028 | Total Count: 28
+2026-10-16 14:12:25 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 112 recognized as VISITOR_0011 | Similarity Score: 0.5372
+2026-10-16 14:12:25 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0011 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:25 | Conf: 0.54 | Image: logs\entries\2026-10-16\person_VISITOR_0011_141225_398.jpg
+2026-10-16 14:12:25 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0022 | Time: 2026-10-16 14:12:25 | Session Duration: 12.3 seconds
+2026-10-16 14:12:25 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 113 recognized as VISITOR_0016 | Similarity Score: 0.6453
+2026-10-16 14:12:26 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0016 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:25 | Conf: 0.65 | Image: logs\entries\2026-10-16\person_VISITOR_0016_141226_034.jpg
+2026-10-16 14:12:26 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 114 recognized as VISITOR_0001 | Similarity Score: 0.7649
+2026-10-16 14:12:26 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:26 | Conf: 0.76 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141226_282.jpg
+2026-10-16 14:12:26 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 115 recognized as VISITOR_0016 | Similarity Score: 0.6536
+2026-10-16 14:12:26 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0016 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:26 | Conf: 0.65 | Image: logs\entries\2026-10-16\person_VISITOR_0016_141226_405.jpg
+2026-10-16 14:12:26 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0024 | Time: 2026-10-16 14:12:26 | Session Duration: 5.4 seconds
+2026-10-16 14:12:26 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0024 | Time: 2026-10-16 14:12:26 | Session Duration: 3.0 seconds
+2026-10-16 14:12:26 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0025 | Time: 2026-10-16 14:12:26 | Session Duration: 2.9 seconds
+2026-10-16 14:12:26 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:12:26 | Session Duration: 2.5 seconds
+2026-10-16 14:12:26 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:12:26 | Session Duration: 2.2 seconds
+2026-10-16 14:12:26 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0018 | Time: 2026-10-16 14:12:26 | Session Duration: 2.1 seconds
+2026-10-16 14:12:27 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 117 recognized as VISITOR_0018 | Similarity Score: 0.6210
+2026-10-16 14:12:27 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0018 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:27 | Conf: 0.62 | Image: logs\entries\2026-10-16\person_VISITOR_0018_141227_077.jpg
+2026-10-16 14:12:27 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0011 | Time: 2026-10-16 14:12:27 | Session Duration: 2.3 seconds
+2026-10-16 14:12:27 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 119 recognized as VISITOR_0001 | Similarity Score: 0.7402
+2026-10-16 14:12:27 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:27 | Conf: 0.74 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141227_332.jpg
+2026-10-16 14:12:27 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 118 recognized as VISITOR_0018 | Similarity Score: 0.5460
+2026-10-16 14:12:27 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0018 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:27 | Conf: 0.55 | Image: logs\entries\2026-10-16\person_VISITOR_0018_141227_572.jpg
+2026-10-16 14:12:28 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 116 recognized as VISITOR_0001 | Similarity Score: 0.7740
+2026-10-16 14:12:28 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:28 | Conf: 0.77 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141228_118.jpg
+2026-10-16 14:12:28 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 120 recognized as VISITOR_0018 | Similarity Score: 0.5620
+2026-10-16 14:12:28 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0018 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:28 | Conf: 0.56 | Image: logs\entries\2026-10-16\person_VISITOR_0018_141228_205.jpg
+2026-10-16 14:12:28 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0016 | Time: 2026-10-16 14:12:28 | Session Duration: 2.6 seconds
+2026-10-16 14:12:28 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:28 | Session Duration: 2.4 seconds
+2026-10-16 14:12:28 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0016 | Time: 2026-10-16 14:12:28 | Session Duration: 2.4 seconds
+2026-10-16 14:12:28 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0018 | Time: 2026-10-16 14:12:28 | Session Duration: 2.1 seconds
+2026-10-16 14:12:29 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 122 recognized as VISITOR_0001 | Similarity Score: 0.8184
+2026-10-16 14:12:29 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:29 | Conf: 0.82 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141229_097.jpg
+2026-10-16 14:12:29 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0018 | Time: 2026-10-16 14:12:29 | Session Duration: 2.2 seconds
+2026-10-16 14:12:29 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:29 | Session Duration: 3.2 seconds
+2026-10-16 14:12:29 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0029 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:29 | Conf: 0.72 | Image: logs\entries\2026-10-16\person_VISITOR_0029_141229_534.jpg
+2026-10-16 14:12:29 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0029 | Total Count: 29
+2026-10-16 14:12:29 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 124 recognized as VISITOR_0001 | Similarity Score: 0.8104
+2026-10-16 14:12:29 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:29 | Conf: 0.81 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141229_668.jpg
+2026-10-16 14:12:30 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:30 | Session Duration: 1.4 seconds
+2026-10-16 14:12:30 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0030 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:30 | Conf: 0.57 | Image: logs\entries\2026-10-16\person_VISITOR_0030_141230_631.jpg
+2026-10-16 14:12:30 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0030 | Total Count: 30
+2026-10-16 14:12:30 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 127 recognized as VISITOR_0001 | Similarity Score: 0.8696
+2026-10-16 14:12:30 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:30 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141230_823.jpg
+2026-10-16 14:12:31 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0029 | Time: 2026-10-16 14:12:31 | Session Duration: 2.3 seconds
+2026-10-16 14:12:31 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0018 | Time: 2026-10-16 14:12:31 | Session Duration: 4.1 seconds
+2026-10-16 14:12:31 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 128 recognized as VISITOR_0029 | Similarity Score: 0.5809
+2026-10-16 14:12:31 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0029 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:31 | Conf: 0.58 | Image: logs\entries\2026-10-16\person_VISITOR_0029_141231_857.jpg
+2026-10-16 14:12:32 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:32 | Session Duration: 2.8 seconds
+2026-10-16 14:12:32 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:32 | Session Duration: 1.6 seconds
+2026-10-16 14:12:32 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:32 | Session Duration: 5.2 seconds
+2026-10-16 14:12:32 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0028 | Time: 2026-10-16 14:12:32 | Session Duration: 7.6 seconds
+2026-10-16 14:12:32 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0029 | Time: 2026-10-16 14:12:32 | Session Duration: 1.2 seconds
+2026-10-16 14:12:35 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0030 | Time: 2026-10-16 14:12:35 | Session Duration: 5.2 seconds
+2026-10-16 14:12:36 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0031 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:36 | Conf: 0.57 | Image: logs\entries\2026-10-16\person_VISITOR_0031_141236_166.jpg
+2026-10-16 14:12:36 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0031 | Total Count: 31
+2026-10-16 14:12:36 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 129 recognized as VISITOR_0001 | Similarity Score: 0.7931
+2026-10-16 14:12:36 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:36 | Conf: 0.79 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141236_430.jpg
+2026-10-16 14:12:37 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 131 recognized as VISITOR_0001 | Similarity Score: 0.7268
+2026-10-16 14:12:37 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:37 | Conf: 0.73 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141237_360.jpg
+2026-10-16 14:12:37 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:37 | Session Duration: 2.2 seconds
+2026-10-16 14:12:38 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 133 recognized as VISITOR_0020 | Similarity Score: 0.5078
+2026-10-16 14:12:38 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0020 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:38 | Conf: 0.51 | Image: logs\entries\2026-10-16\person_VISITOR_0020_141238_052.jpg
+2026-10-16 14:12:38 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0031 | Time: 2026-10-16 14:12:38 | Session Duration: 2.7 seconds
+2026-10-16 14:12:38 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 132 recognized as VISITOR_0030 | Similarity Score: 0.5139
+2026-10-16 14:12:38 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0030 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:38 | Conf: 0.51 | Image: logs\entries\2026-10-16\person_VISITOR_0030_141238_301.jpg
+2026-10-16 14:12:38 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 134 recognized as VISITOR_0003 | Similarity Score: 0.5353
+2026-10-16 14:12:38 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0003 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:38 | Conf: 0.54 | Image: logs\entries\2026-10-16\person_VISITOR_0003_141238_577.jpg
+2026-10-16 14:12:38 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:38 | Session Duration: 2.0 seconds
+2026-10-16 14:12:39 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 135 recognized as VISITOR_0001 | Similarity Score: 0.7876
+2026-10-16 14:12:39 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:39 | Conf: 0.79 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141239_055.jpg
+2026-10-16 14:12:39 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 136 recognized as VISITOR_0003 | Similarity Score: 0.5164
+2026-10-16 14:12:39 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0003 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:39 | Conf: 0.52 | Image: logs\entries\2026-10-16\person_VISITOR_0003_141239_256.jpg
+2026-10-16 14:12:39 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0003 | Time: 2026-10-16 14:12:39 | Session Duration: 2.0 seconds
+2026-10-16 14:12:40 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 137 recognized as VISITOR_0029 | Similarity Score: 0.5805
+2026-10-16 14:12:40 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0029 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:40 | Conf: 0.58 | Image: logs\entries\2026-10-16\person_VISITOR_0029_141240_069.jpg
+2026-10-16 14:12:40 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 138 recognized as VISITOR_0001 | Similarity Score: 0.8579
+2026-10-16 14:12:40 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:40 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141240_470.jpg
+2026-10-16 14:12:40 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 139 recognized as VISITOR_0005 | Similarity Score: 0.5694
+2026-10-16 14:12:40 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0005 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:40 | Conf: 0.57 | Image: logs\entries\2026-10-16\person_VISITOR_0005_141240_537.jpg
+2026-10-16 14:12:40 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0003 | Time: 2026-10-16 14:12:40 | Session Duration: 1.7 seconds
+2026-10-16 14:12:40 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0032 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:40 | Conf: 0.72 | Image: logs\entries\2026-10-16\person_VISITOR_0032_141240_809.jpg
+2026-10-16 14:12:40 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0032 | Total Count: 32
+2026-10-16 14:12:41 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:41 | Session Duration: 2.3 seconds
+2026-10-16 14:12:41 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 140 recognized as VISITOR_0032 | Similarity Score: 0.5269
+2026-10-16 14:12:41 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0032 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:41 | Conf: 0.53 | Image: logs\entries\2026-10-16\person_VISITOR_0032_141241_278.jpg
+2026-10-16 14:12:41 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0029 | Time: 2026-10-16 14:12:41 | Session Duration: 1.7 seconds
+2026-10-16 14:12:41 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0020 | Time: 2026-10-16 14:12:41 | Session Duration: 3.7 seconds
+2026-10-16 14:12:41 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 142 recognized as VISITOR_0011 | Similarity Score: 0.6012
+2026-10-16 14:12:41 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0011 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:41 | Conf: 0.60 | Image: logs\entries\2026-10-16\person_VISITOR_0011_141241_881.jpg
+2026-10-16 14:12:42 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0033 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:42 | Conf: 0.51 | Image: logs\entries\2026-10-16\person_VISITOR_0033_141242_723.jpg
+2026-10-16 14:12:42 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0033 | Total Count: 33
+2026-10-16 14:12:42 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0032 | Time: 2026-10-16 14:12:42 | Session Duration: 2.6 seconds
+2026-10-16 14:12:43 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0011 | Time: 2026-10-16 14:12:43 | Session Duration: 1.6 seconds
+2026-10-16 14:12:43 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0034 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:12:43 | Conf: 0.51 | Image: logs\entries\2026-10-16\person_VISITOR_0034_141243_768.jpg
+2026-10-16 14:12:43 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0034 | Total Count: 34
+2026-10-16 14:12:44 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0033 | Time: 2026-10-16 14:12:44 | Session Duration: 1.5 seconds
+2026-10-16 14:12:45 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0034 | Time: 2026-10-16 14:12:45 | Session Duration: 1.9 seconds
+2026-10-16 14:12:45 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 145 recognized as VISITOR_0032 | Similarity Score: 0.6252
+2026-10-16 14:12:45 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0032 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:45 | Conf: 0.63 | Image: logs\entries\2026-10-16\person_VISITOR_0032_141245_402.jpg
+2026-10-16 14:12:46 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 146 recognized as VISITOR_0034 | Similarity Score: 0.5580
+2026-10-16 14:12:46 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0034 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:46 | Conf: 0.56 | Image: logs\entries\2026-10-16\person_VISITOR_0034_141246_046.jpg
+2026-10-16 14:12:46 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0030 | Time: 2026-10-16 14:12:46 | Session Duration: 8.9 seconds
+2026-10-16 14:12:47 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 147 recognized as VISITOR_0003 | Similarity Score: 0.5376
+2026-10-16 14:12:47 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0003 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:47 | Conf: 0.54 | Image: logs\entries\2026-10-16\person_VISITOR_0003_141247_308.jpg
+2026-10-16 14:12:48 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0034 | Time: 2026-10-16 14:12:47 | Session Duration: 2.8 seconds
+2026-10-16 14:12:49 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 148 recognized as VISITOR_0001 | Similarity Score: 0.8971
+2026-10-16 14:12:49 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:49 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141249_096.jpg
+2026-10-16 14:12:49 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0003 | Time: 2026-10-16 14:12:49 | Session Duration: 2.8 seconds
+2026-10-16 14:12:49 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0005 | Time: 2026-10-16 14:12:49 | Session Duration: 9.4 seconds
+2026-10-16 14:12:51 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:51 | Session Duration: 2.5 seconds
+2026-10-16 14:12:52 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 149 recognized as VISITOR_0001 | Similarity Score: 0.8940
+2026-10-16 14:12:52 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:52 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141252_262.jpg
+2026-10-16 14:12:52 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:52 | Session Duration: 12.8 seconds
+2026-10-16 14:12:53 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0032 | Time: 2026-10-16 14:12:53 | Session Duration: 8.3 seconds
+2026-10-16 14:12:54 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 150 recognized as VISITOR_0001 | Similarity Score: 0.8637
+2026-10-16 14:12:54 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:12:54 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_141254_281.jpg
+2026-10-16 14:12:56 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:56 | Session Duration: 4.0 seconds
+2026-10-16 14:12:56 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:12:56 | Session Duration: 2.3 seconds
+2026-10-16 14:12:59 [INFO] [MainPipeline]: Keyboard interrupt received. Terminating gracefully...
+2026-10-16 14:12:59 [INFO] [MainPipeline]: Flushing exit logs for active tracks before system shutdown...
+2026-10-16 14:12:59 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:12:59 | Session Duration: 59.1 seconds
+2026-10-16 14:12:59 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0032 | Time: 2026-10-16 14:12:59 | Session Duration: 18.6 seconds
+2026-10-16 14:24:18 [INFO] [MainPipeline]: ======================================================================
+2026-10-16 14:24:18 [INFO] [MainPipeline]: STARTING INTELLIGENT FACE TRACKER & VISITOR COUNTING PIPELINE
+2026-10-16 14:24:18 [INFO] [MainPipeline]: ======================================================================
+2026-10-16 14:24:18 [INFO] [MainPipeline]: Loaded 34 registered visitor identities from database.
+2026-10-16 14:24:25 [INFO] [MainPipeline]: Attempting to connect to video source: 0
+2026-10-16 14:24:27 [INFO] [MainPipeline]: Stream opened successfully. Resolution: 640x480 | FPS: 30.0 | Total Frames: -1
+2026-10-16 14:24:32 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 1 recognized as VISITOR_0001 | Similarity Score: 0.8782
+2026-10-16 14:24:32 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:32 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142432_186.jpg
+2026-10-16 14:24:32 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0035 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:24:32 | Conf: 0.55 | Image: logs\entries\2026-10-16\person_VISITOR_0035_142432_687.jpg
+2026-10-16 14:24:32 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0035 | Total Count: 35
+2026-10-16 14:24:32 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0036 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:24:32 | Conf: 0.61 | Image: logs\entries\2026-10-16\person_VISITOR_0036_142432_756.jpg
+2026-10-16 14:24:32 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0036 | Total Count: 36
+2026-10-16 14:24:33 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 4 recognized as VISITOR_0001 | Similarity Score: 0.8791
+2026-10-16 14:24:33 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:33 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142433_260.jpg
+2026-10-16 14:24:33 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 5 recognized as VISITOR_0001 | Similarity Score: 0.8791
+2026-10-16 14:24:33 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:33 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142433_371.jpg
+2026-10-16 14:24:33 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0037 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:24:33 | Conf: 0.53 | Image: logs\entries\2026-10-16\person_VISITOR_0037_142433_585.jpg
+2026-10-16 14:24:33 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0037 | Total Count: 37
+2026-10-16 14:24:33 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 7 recognized as VISITOR_0001 | Similarity Score: 0.8507
+2026-10-16 14:24:33 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:33 | Conf: 0.85 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142433_943.jpg
+2026-10-16 14:24:34 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 8 recognized as VISITOR_0001 | Similarity Score: 0.8578
+2026-10-16 14:24:34 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:34 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142434_341.jpg
+2026-10-16 14:24:34 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0035 | Time: 2026-10-16 14:24:34 | Session Duration: 1.9 seconds
+2026-10-16 14:24:34 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0036 | Time: 2026-10-16 14:24:34 | Session Duration: 2.3 seconds
+2026-10-16 14:24:34 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:34 | Session Duration: 1.7 seconds
+2026-10-16 14:24:35 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 10 recognized as VISITOR_0001 | Similarity Score: 0.8672
+2026-10-16 14:24:35 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:35 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142435_125.jpg
+2026-10-16 14:24:35 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0037 | Time: 2026-10-16 14:24:35 | Session Duration: 2.1 seconds
+2026-10-16 14:24:35 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 9 recognized as VISITOR_0001 | Similarity Score: 0.8694
+2026-10-16 14:24:35 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:35 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142435_353.jpg
+2026-10-16 14:24:35 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:35 | Session Duration: 2.3 seconds
+2026-10-16 14:24:35 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 11 recognized as VISITOR_0001 | Similarity Score: 0.8668
+2026-10-16 14:24:35 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:35 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142435_625.jpg
+2026-10-16 14:24:35 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 12 recognized as VISITOR_0001 | Similarity Score: 0.8613
+2026-10-16 14:24:35 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:35 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142435_986.jpg
+2026-10-16 14:24:35 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:35 | Session Duration: 1.9 seconds
+2026-10-16 14:24:36 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:36 | Session Duration: 2.6 seconds
+2026-10-16 14:24:36 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 13 recognized as VISITOR_0035 | Similarity Score: 0.5808
+2026-10-16 14:24:36 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0035 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:36 | Conf: 0.58 | Image: logs\entries\2026-10-16\person_VISITOR_0035_142436_578.jpg
+2026-10-16 14:24:36 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0038 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:24:36 | Conf: 0.69 | Image: logs\entries\2026-10-16\person_VISITOR_0038_142436_809.jpg
+2026-10-16 14:24:36 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0038 | Total Count: 38
+2026-10-16 14:24:36 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:36 | Session Duration: 2.0 seconds
+2026-10-16 14:24:36 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:36 | Session Duration: 1.7 seconds
+2026-10-16 14:24:37 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 15 recognized as VISITOR_0001 | Similarity Score: 0.8661
+2026-10-16 14:24:37 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:37 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142437_523.jpg
+2026-10-16 14:24:37 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:37 | Session Duration: 1.8 seconds
+2026-10-16 14:24:37 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 16 recognized as VISITOR_0001 | Similarity Score: 0.8664
+2026-10-16 14:24:37 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:37 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142437_843.jpg
+2026-10-16 14:24:37 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0035 | Time: 2026-10-16 14:24:37 | Session Duration: 1.7 seconds
+2026-10-16 14:24:38 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 17 recognized as VISITOR_0001 | Similarity Score: 0.8776
+2026-10-16 14:24:38 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:38 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142438_170.jpg
+2026-10-16 14:24:38 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0038 | Time: 2026-10-16 14:24:38 | Session Duration: 1.7 seconds
+2026-10-16 14:24:38 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 18 recognized as VISITOR_0001 | Similarity Score: 0.8709
+2026-10-16 14:24:38 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:38 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142438_653.jpg
+2026-10-16 14:24:38 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:38 | Session Duration: 1.5 seconds
+2026-10-16 14:24:39 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 19 recognized as VISITOR_0001 | Similarity Score: 0.8762
+2026-10-16 14:24:39 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:39 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142439_356.jpg
+2026-10-16 14:24:39 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 20 recognized as VISITOR_0001 | Similarity Score: 0.8690
+2026-10-16 14:24:39 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:39 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142439_584.jpg
+2026-10-16 14:24:39 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:39 | Session Duration: 1.6 seconds
+2026-10-16 14:24:39 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 21 recognized as VISITOR_0001 | Similarity Score: 0.8628
+2026-10-16 14:24:39 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:39 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142439_830.jpg
+2026-10-16 14:24:40 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 22 recognized as VISITOR_0001 | Similarity Score: 0.8859
+2026-10-16 14:24:40 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:40 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142440_046.jpg
+2026-10-16 14:24:40 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:40 | Session Duration: 2.4 seconds
+2026-10-16 14:24:40 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:40 | Session Duration: 1.9 seconds
+2026-10-16 14:24:40 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:40 | Session Duration: 1.5 seconds
+2026-10-16 14:24:41 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 23 recognized as VISITOR_0001 | Similarity Score: 0.7813
+2026-10-16 14:24:41 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:41 | Conf: 0.78 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142441_056.jpg
+2026-10-16 14:24:41 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:41 | Session Duration: 1.8 seconds
+2026-10-16 14:24:41 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:41 | Session Duration: 1.3 seconds
+2026-10-16 14:24:41 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 24 recognized as VISITOR_0001 | Similarity Score: 0.7355
+2026-10-16 14:24:41 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:41 | Conf: 0.74 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142441_299.jpg
+2026-10-16 14:24:41 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 25 recognized as VISITOR_0009 | Similarity Score: 0.5105
+2026-10-16 14:24:41 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:41 | Conf: 0.51 | Image: logs\entries\2026-10-16\person_VISITOR_0009_142441_501.jpg
+2026-10-16 14:24:41 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 26 recognized as VISITOR_0009 | Similarity Score: 0.5585
+2026-10-16 14:24:41 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:41 | Conf: 0.56 | Image: logs\entries\2026-10-16\person_VISITOR_0009_142441_715.jpg
+2026-10-16 14:24:41 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 27 recognized as VISITOR_0009 | Similarity Score: 0.5368
+2026-10-16 14:24:41 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:41 | Conf: 0.54 | Image: logs\entries\2026-10-16\person_VISITOR_0009_142441_940.jpg
+2026-10-16 14:24:42 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:42 | Session Duration: 7.7 seconds
+2026-10-16 14:24:42 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:42 | Session Duration: 3.3 seconds
+2026-10-16 14:24:42 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:42 | Session Duration: 1.9 seconds
+2026-10-16 14:24:42 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:42 | Session Duration: 1.7 seconds
+2026-10-16 14:24:42 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 28 recognized as VISITOR_0009 | Similarity Score: 0.5349
+2026-10-16 14:24:42 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:42 | Conf: 0.53 | Image: logs\entries\2026-10-16\person_VISITOR_0009_142442_913.jpg
+2026-10-16 14:24:42 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:24:42 | Session Duration: 1.3 seconds
+2026-10-16 14:24:43 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:24:43 | Session Duration: 1.7 seconds
+2026-10-16 14:24:44 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 29 recognized as VISITOR_0009 | Similarity Score: 0.6043
+2026-10-16 14:24:44 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:44 | Conf: 0.60 | Image: logs\entries\2026-10-16\person_VISITOR_0009_142444_325.jpg
+2026-10-16 14:24:44 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 30 recognized as VISITOR_0009 | Similarity Score: 0.6410
+2026-10-16 14:24:44 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:44 | Conf: 0.64 | Image: logs\entries\2026-10-16\person_VISITOR_0009_142444_655.jpg
+2026-10-16 14:24:45 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 31 recognized as VISITOR_0009 | Similarity Score: 0.6218
+2026-10-16 14:24:45 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:45 | Conf: 0.62 | Image: logs\entries\2026-10-16\person_VISITOR_0009_142445_372.jpg
+2026-10-16 14:24:45 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 32 recognized as VISITOR_0009 | Similarity Score: 0.6242
+2026-10-16 14:24:45 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:45 | Conf: 0.62 | Image: logs\entries\2026-10-16\person_VISITOR_0009_142445_637.jpg
+2026-10-16 14:24:45 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:24:45 | Session Duration: 1.9 seconds
+2026-10-16 14:24:45 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:24:45 | Session Duration: 1.4 seconds
+2026-10-16 14:24:46 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 33 recognized as VISITOR_0009 | Similarity Score: 0.5775
+2026-10-16 14:24:46 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:46 | Conf: 0.58 | Image: logs\entries\2026-10-16\person_VISITOR_0009_142446_248.jpg
+2026-10-16 14:24:46 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:24:46 | Session Duration: 3.4 seconds
+2026-10-16 14:24:46 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 34 recognized as VISITOR_0009 | Similarity Score: 0.5677
+2026-10-16 14:24:46 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:46 | Conf: 0.57 | Image: logs\entries\2026-10-16\person_VISITOR_0009_142446_616.jpg
+2026-10-16 14:24:46 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:24:46 | Session Duration: 1.6 seconds
+2026-10-16 14:24:47 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:24:47 | Session Duration: 1.8 seconds
+2026-10-16 14:24:47 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:24:47 | Session Duration: 1.3 seconds
+2026-10-16 14:24:47 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 36 recognized as VISITOR_0001 | Similarity Score: 0.8862
+2026-10-16 14:24:47 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:47 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142447_818.jpg
+2026-10-16 14:24:48 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 35 recognized as VISITOR_0001 | Similarity Score: 0.8978
+2026-10-16 14:24:48 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:48 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142448_048.jpg
+2026-10-16 14:24:48 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 37 recognized as VISITOR_0001 | Similarity Score: 0.8978
+2026-10-16 14:24:48 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:48 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142448_151.jpg
+2026-10-16 14:24:48 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:24:48 | Session Duration: 1.9 seconds
+2026-10-16 14:24:48 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:24:48 | Session Duration: 7.1 seconds
+2026-10-16 14:24:48 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 38 recognized as VISITOR_0001 | Similarity Score: 0.8944
+2026-10-16 14:24:48 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:48 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142448_911.jpg
+2026-10-16 14:24:49 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 39 recognized as VISITOR_0001 | Similarity Score: 0.8756
+2026-10-16 14:24:49 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:49 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142449_144.jpg
+2026-10-16 14:24:49 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:49 | Session Duration: 1.7 seconds
+2026-10-16 14:24:49 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:49 | Session Duration: 1.9 seconds
+2026-10-16 14:24:49 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 40 recognized as VISITOR_0001 | Similarity Score: 0.8874
+2026-10-16 14:24:49 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:49 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142449_638.jpg
+2026-10-16 14:24:49 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 41 recognized as VISITOR_0001 | Similarity Score: 0.8680
+2026-10-16 14:24:49 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:49 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142449_863.jpg
+2026-10-16 14:24:49 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 42 recognized as VISITOR_0001 | Similarity Score: 0.8680
+2026-10-16 14:24:49 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:49 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142449_977.jpg
+2026-10-16 14:24:49 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:49 | Session Duration: 2.3 seconds
+2026-10-16 14:24:50 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 43 recognized as VISITOR_0001 | Similarity Score: 0.8846
+2026-10-16 14:24:50 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:50 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142450_532.jpg
+2026-10-16 14:24:50 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:50 | Session Duration: 2.2 seconds
+2026-10-16 14:24:50 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:50 | Session Duration: 1.9 seconds
+2026-10-16 14:24:50 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 44 recognized as VISITOR_0001 | Similarity Score: 0.8860
+2026-10-16 14:24:50 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:50 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142450_983.jpg
+2026-10-16 14:24:51 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 45 recognized as VISITOR_0001 | Similarity Score: 0.8860
+2026-10-16 14:24:51 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:51 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142451_078.jpg
+2026-10-16 14:24:51 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 46 recognized as VISITOR_0001 | Similarity Score: 0.8887
+2026-10-16 14:24:51 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:51 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142451_424.jpg
+2026-10-16 14:24:51 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:51 | Session Duration: 1.9 seconds
+2026-10-16 14:24:51 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:51 | Session Duration: 1.9 seconds
+2026-10-16 14:24:51 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:51 | Session Duration: 2.1 seconds
+2026-10-16 14:24:52 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 47 recognized as VISITOR_0001 | Similarity Score: 0.8604
+2026-10-16 14:24:52 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:52 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142452_137.jpg
+2026-10-16 14:24:52 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 48 recognized as VISITOR_0001 | Similarity Score: 0.8594
+2026-10-16 14:24:52 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:52 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142452_459.jpg
+2026-10-16 14:24:52 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:52 | Session Duration: 1.4 seconds
+2026-10-16 14:24:52 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 49 recognized as VISITOR_0002 | Similarity Score: 0.6649
+2026-10-16 14:24:52 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0002 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:52 | Conf: 0.66 | Image: logs\entries\2026-10-16\person_VISITOR_0002_142452_811.jpg
+2026-10-16 14:24:52 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:52 | Session Duration: 2.1 seconds
+2026-10-16 14:24:53 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 50 recognized as VISITOR_0001 | Similarity Score: 0.8789
+2026-10-16 14:24:53 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:53 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142453_044.jpg
+2026-10-16 14:24:53 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:53 | Session Duration: 2.4 seconds
+2026-10-16 14:24:53 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 51 recognized as VISITOR_0001 | Similarity Score: 0.8730
+2026-10-16 14:24:53 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:53 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142453_624.jpg
+2026-10-16 14:24:53 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:53 | Session Duration: 1.8 seconds
+2026-10-16 14:24:53 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:53 | Session Duration: 2.0 seconds
+2026-10-16 14:24:54 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 52 recognized as VISITOR_0001 | Similarity Score: 0.8675
+2026-10-16 14:24:54 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:54 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142454_743.jpg
+2026-10-16 14:24:54 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:54 | Session Duration: 1.3 seconds
+2026-10-16 14:24:55 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:55 | Session Duration: 1.0 seconds
+2026-10-16 14:24:55 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:55 | Session Duration: 3.0 seconds
+2026-10-16 14:24:55 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 53 recognized as VISITOR_0001 | Similarity Score: 0.8606
+2026-10-16 14:24:55 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:55 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142455_966.jpg
+2026-10-16 14:24:56 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 54 recognized as VISITOR_0001 | Similarity Score: 0.8661
+2026-10-16 14:24:56 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:56 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142456_208.jpg
+2026-10-16 14:24:56 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 55 recognized as VISITOR_0001 | Similarity Score: 0.8953
+2026-10-16 14:24:56 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:56 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142456_567.jpg
+2026-10-16 14:24:57 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 56 recognized as VISITOR_0001 | Similarity Score: 0.8526
+2026-10-16 14:24:57 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:57 | Conf: 0.85 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142457_370.jpg
+2026-10-16 14:24:57 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 57 recognized as VISITOR_0001 | Similarity Score: 0.8526
+2026-10-16 14:24:57 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:57 | Conf: 0.85 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142457_459.jpg
+2026-10-16 14:24:57 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:57 | Session Duration: 1.7 seconds
+2026-10-16 14:24:57 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 58 recognized as VISITOR_0009 | Similarity Score: 0.5173
+2026-10-16 14:24:57 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:57 | Conf: 0.52 | Image: logs\entries\2026-10-16\person_VISITOR_0009_142457_827.jpg
+2026-10-16 14:24:58 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 59 recognized as VISITOR_0001 | Similarity Score: 0.6668
+2026-10-16 14:24:58 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:58 | Conf: 0.67 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142458_256.jpg
+2026-10-16 14:24:58 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 60 recognized as VISITOR_0001 | Similarity Score: 0.6668
+2026-10-16 14:24:58 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:58 | Conf: 0.67 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142458_365.jpg
+2026-10-16 14:24:58 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 61 recognized as VISITOR_0001 | Similarity Score: 0.7253
+2026-10-16 14:24:58 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:58 | Conf: 0.73 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142458_613.jpg
+2026-10-16 14:24:58 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 62 recognized as VISITOR_0001 | Similarity Score: 0.7253
+2026-10-16 14:24:58 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:58 | Conf: 0.73 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142458_713.jpg
+2026-10-16 14:24:58 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:58 | Session Duration: 3.0 seconds
+2026-10-16 14:24:58 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:58 | Session Duration: 2.4 seconds
+2026-10-16 14:24:58 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 63 recognized as VISITOR_0001 | Similarity Score: 0.6858
+2026-10-16 14:24:58 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:58 | Conf: 0.69 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142458_966.jpg
+2026-10-16 14:24:58 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0002 | Time: 2026-10-16 14:24:58 | Session Duration: 6.4 seconds
+2026-10-16 14:24:59 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 64 recognized as VISITOR_0009 | Similarity Score: 0.6466
+2026-10-16 14:24:59 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:59 | Conf: 0.65 | Image: logs\entries\2026-10-16\person_VISITOR_0009_142459_331.jpg
+2026-10-16 14:24:59 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:59 | Session Duration: 9.1 seconds
+2026-10-16 14:24:59 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:59 | Session Duration: 2.2 seconds
+2026-10-16 14:24:59 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 65 recognized as VISITOR_0009 | Similarity Score: 0.6452
+2026-10-16 14:24:59 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:59 | Conf: 0.65 | Image: logs\entries\2026-10-16\person_VISITOR_0009_142459_556.jpg
+2026-10-16 14:24:59 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:24:59 | Session Duration: 2.4 seconds
+2026-10-16 14:24:59 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 66 recognized as VISITOR_0009 | Similarity Score: 0.6249
+2026-10-16 14:24:59 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0009 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:24:59 | Conf: 0.62 | Image: logs\entries\2026-10-16\person_VISITOR_0009_142459_954.jpg
+2026-10-16 14:24:59 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:24:59 | Session Duration: 2.3 seconds
+2026-10-16 14:25:00 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:00 | Session Duration: 2.2 seconds
+2026-10-16 14:25:00 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0039 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:25:00 | Conf: 0.61 | Image: logs\entries\2026-10-16\person_VISITOR_0039_142500_485.jpg
+2026-10-16 14:25:00 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0039 | Total Count: 39
+2026-10-16 14:25:00 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:00 | Session Duration: 2.4 seconds
+2026-10-16 14:25:00 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:00 | Session Duration: 2.4 seconds
+2026-10-16 14:25:00 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:00 | Session Duration: 2.0 seconds
+2026-10-16 14:25:01 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:25:01 | Session Duration: 1.5 seconds
+2026-10-16 14:25:01 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0040 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:25:01 | Conf: 0.66 | Image: logs\entries\2026-10-16\person_VISITOR_0040_142501_437.jpg
+2026-10-16 14:25:01 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0040 | Total Count: 40
+2026-10-16 14:25:01 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:01 | Session Duration: 3.5 seconds
+2026-10-16 14:25:01 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:25:01 | Session Duration: 2.5 seconds
+2026-10-16 14:25:01 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0039 | Time: 2026-10-16 14:25:01 | Session Duration: 1.3 seconds
+2026-10-16 14:25:01 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 69 recognized as VISITOR_0040 | Similarity Score: 0.6842
+2026-10-16 14:25:01 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0040 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:01 | Conf: 0.68 | Image: logs\entries\2026-10-16\person_VISITOR_0040_142501_854.jpg
+2026-10-16 14:25:02 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 70 recognized as VISITOR_0001 | Similarity Score: 0.7923
+2026-10-16 14:25:02 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:02 | Conf: 0.79 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142502_339.jpg
+2026-10-16 14:25:02 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 71 recognized as VISITOR_0001 | Similarity Score: 0.8169
+2026-10-16 14:25:02 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:02 | Conf: 0.82 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142502_766.jpg
+2026-10-16 14:25:02 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0009 | Time: 2026-10-16 14:25:02 | Session Duration: 3.6 seconds
+2026-10-16 14:25:02 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0040 | Time: 2026-10-16 14:25:02 | Session Duration: 1.5 seconds
+2026-10-16 14:25:03 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0040 | Time: 2026-10-16 14:25:03 | Session Duration: 1.5 seconds
+2026-10-16 14:25:03 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0041 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:25:03 | Conf: 0.53 | Image: logs\entries\2026-10-16\person_VISITOR_0041_142503_747.jpg
+2026-10-16 14:25:03 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0041 | Total Count: 41
+2026-10-16 14:25:03 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:03 | Session Duration: 1.8 seconds
+2026-10-16 14:25:04 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:04 | Session Duration: 1.6 seconds
+2026-10-16 14:25:04 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 73 recognized as VISITOR_0001 | Similarity Score: 0.8310
+2026-10-16 14:25:04 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:04 | Conf: 0.83 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142504_358.jpg
+2026-10-16 14:25:04 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 74 recognized as VISITOR_0001 | Similarity Score: 0.8310
+2026-10-16 14:25:04 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:04 | Conf: 0.83 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142504_457.jpg
+2026-10-16 14:25:05 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0041 | Time: 2026-10-16 14:25:05 | Session Duration: 1.6 seconds
+2026-10-16 14:25:05 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 75 recognized as VISITOR_0001 | Similarity Score: 0.8802
+2026-10-16 14:25:05 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:05 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142505_815.jpg
+2026-10-16 14:25:05 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:05 | Session Duration: 1.9 seconds
+2026-10-16 14:25:05 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:05 | Session Duration: 1.9 seconds
+2026-10-16 14:25:06 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 77 recognized as VISITOR_0001 | Similarity Score: 0.8658
+2026-10-16 14:25:06 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:06 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142506_228.jpg
+2026-10-16 14:25:06 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 76 recognized as VISITOR_0001 | Similarity Score: 0.8638
+2026-10-16 14:25:06 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:06 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142506_467.jpg
+2026-10-16 14:25:07 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 78 recognized as VISITOR_0035 | Similarity Score: 0.5591
+2026-10-16 14:25:07 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0035 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:07 | Conf: 0.56 | Image: logs\entries\2026-10-16\person_VISITOR_0035_142507_112.jpg
+2026-10-16 14:25:07 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:07 | Session Duration: 1.4 seconds
+2026-10-16 14:25:07 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0042 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:25:07 | Conf: 0.65 | Image: logs\entries\2026-10-16\person_VISITOR_0042_142507_602.jpg
+2026-10-16 14:25:07 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0042 | Total Count: 42
+2026-10-16 14:25:08 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:08 | Session Duration: 2.7 seconds
+2026-10-16 14:25:08 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 80 recognized as VISITOR_0001 | Similarity Score: 0.8642
+2026-10-16 14:25:08 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:08 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142508_653.jpg
+2026-10-16 14:25:08 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 81 recognized as VISITOR_0001 | Similarity Score: 0.8868
+2026-10-16 14:25:08 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:08 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142508_889.jpg
+2026-10-16 14:25:08 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0035 | Time: 2026-10-16 14:25:08 | Session Duration: 2.0 seconds
+2026-10-16 14:25:09 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 82 recognized as VISITOR_0001 | Similarity Score: 0.8894
+2026-10-16 14:25:09 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:09 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142509_409.jpg
+2026-10-16 14:25:09 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0042 | Time: 2026-10-16 14:25:09 | Session Duration: 2.0 seconds
+2026-10-16 14:25:10 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:10 | Session Duration: 4.1 seconds
+2026-10-16 14:25:10 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 83 recognized as VISITOR_0001 | Similarity Score: 0.8798
+2026-10-16 14:25:10 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:10 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142510_245.jpg
+2026-10-16 14:25:10 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:10 | Session Duration: 2.1 seconds
+2026-10-16 14:25:10 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 84 recognized as VISITOR_0001 | Similarity Score: 0.8856
+2026-10-16 14:25:10 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:10 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142510_798.jpg
+2026-10-16 14:25:10 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 85 recognized as VISITOR_0001 | Similarity Score: 0.8856
+2026-10-16 14:25:10 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:10 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142510_877.jpg
+2026-10-16 14:25:11 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:11 | Session Duration: 2.6 seconds
+2026-10-16 14:25:11 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 86 recognized as VISITOR_0001 | Similarity Score: 0.8942
+2026-10-16 14:25:11 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:11 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142511_324.jpg
+2026-10-16 14:25:12 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:12 | Session Duration: 2.8 seconds
+2026-10-16 14:25:12 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:12 | Session Duration: 2.0 seconds
+2026-10-16 14:25:12 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 87 recognized as VISITOR_0001 | Similarity Score: 0.8852
+2026-10-16 14:25:12 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:12 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142512_660.jpg
+2026-10-16 14:25:13 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 88 recognized as VISITOR_0001 | Similarity Score: 0.8995
+2026-10-16 14:25:13 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:13 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142513_027.jpg
+2026-10-16 14:25:13 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:13 | Session Duration: 2.4 seconds
+2026-10-16 14:25:13 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:13 | Session Duration: 2.3 seconds
+2026-10-16 14:25:13 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 89 recognized as VISITOR_0001 | Similarity Score: 0.8965
+2026-10-16 14:25:13 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:13 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142513_464.jpg
+2026-10-16 14:25:14 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:14 | Session Duration: 3.1 seconds
+2026-10-16 14:25:15 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:15 | Session Duration: 3.0 seconds
+2026-10-16 14:25:15 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 90 recognized as VISITOR_0001 | Similarity Score: 0.8748
+2026-10-16 14:25:15 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:15 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142515_752.jpg
+2026-10-16 14:25:16 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:16 | Session Duration: 3.9 seconds
+2026-10-16 14:25:17 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 91 recognized as VISITOR_0001 | Similarity Score: 0.8689
+2026-10-16 14:25:17 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:17 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142517_190.jpg
+2026-10-16 14:25:17 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:17 | Session Duration: 5.1 seconds
+2026-10-16 14:25:18 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 92 recognized as VISITOR_0001 | Similarity Score: 0.8687
+2026-10-16 14:25:18 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:18 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142518_339.jpg
+2026-10-16 14:25:18 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 93 recognized as VISITOR_0001 | Similarity Score: 0.8687
+2026-10-16 14:25:18 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:18 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142518_451.jpg
+2026-10-16 14:25:18 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:18 | Session Duration: 3.1 seconds
+2026-10-16 14:25:19 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:19 | Session Duration: 3.2 seconds
+2026-10-16 14:25:20 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:20 | Session Duration: 2.6 seconds
+2026-10-16 14:25:20 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 94 recognized as VISITOR_0001 | Similarity Score: 0.8658
+2026-10-16 14:25:20 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:20 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142520_932.jpg
+2026-10-16 14:25:21 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 95 recognized as VISITOR_0001 | Similarity Score: 0.8645
+2026-10-16 14:25:21 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:21 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142521_522.jpg
+2026-10-16 14:25:21 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:21 | Session Duration: 3.5 seconds
+2026-10-16 14:25:22 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 96 recognized as VISITOR_0001 | Similarity Score: 0.8508
+2026-10-16 14:25:22 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:22 | Conf: 0.85 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142522_117.jpg
+2026-10-16 14:25:22 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 97 recognized as VISITOR_0001 | Similarity Score: 0.8508
+2026-10-16 14:25:22 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:22 | Conf: 0.85 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142522_208.jpg
+2026-10-16 14:25:23 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 98 recognized as VISITOR_0001 | Similarity Score: 0.8620
+2026-10-16 14:25:23 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:23 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142523_125.jpg
+2026-10-16 14:25:23 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:23 | Session Duration: 2.8 seconds
+2026-10-16 14:25:24 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 99 recognized as VISITOR_0001 | Similarity Score: 0.8675
+2026-10-16 14:25:24 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:24 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142524_521.jpg
+2026-10-16 14:25:24 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:24 | Session Duration: 3.1 seconds
+2026-10-16 14:25:25 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 100 recognized as VISITOR_0001 | Similarity Score: 0.8687
+2026-10-16 14:25:25 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:25 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142525_428.jpg
+2026-10-16 14:25:25 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 101 recognized as VISITOR_0001 | Similarity Score: 0.8687
+2026-10-16 14:25:25 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:25 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142525_533.jpg
+2026-10-16 14:25:25 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0043 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:25:25 | Conf: 0.65 | Image: logs\entries\2026-10-16\person_VISITOR_0043_142525_881.jpg
+2026-10-16 14:25:25 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0043 | Total Count: 43
+2026-10-16 14:25:26 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 103 recognized as VISITOR_0001 | Similarity Score: 0.8572
+2026-10-16 14:25:26 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:26 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142526_247.jpg
+2026-10-16 14:25:26 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:26 | Session Duration: 4.5 seconds
+2026-10-16 14:25:26 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 104 recognized as VISITOR_0001 | Similarity Score: 0.8625
+2026-10-16 14:25:26 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:26 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142526_636.jpg
+2026-10-16 14:25:26 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:26 | Session Duration: 5.5 seconds
+2026-10-16 14:25:27 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 105 recognized as VISITOR_0001 | Similarity Score: 0.8540
+2026-10-16 14:25:27 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:27 | Conf: 0.85 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142527_056.jpg
+2026-10-16 14:25:27 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:27 | Session Duration: 3.2 seconds
+2026-10-16 14:25:28 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:28 | Session Duration: 5.7 seconds
+2026-10-16 14:25:28 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:28 | Session Duration: 3.1 seconds
+2026-10-16 14:25:28 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:28 | Session Duration: 3.3 seconds
+2026-10-16 14:25:28 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 106 recognized as VISITOR_0001 | Similarity Score: 0.8832
+2026-10-16 14:25:28 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:28 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142528_763.jpg
+2026-10-16 14:25:28 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 107 recognized as VISITOR_0001 | Similarity Score: 0.8832
+2026-10-16 14:25:28 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:28 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142528_878.jpg
+2026-10-16 14:25:29 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:29 | Session Duration: 3.3 seconds
+2026-10-16 14:25:29 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:29 | Session Duration: 2.9 seconds
+2026-10-16 14:25:30 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0044 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:25:30 | Conf: 0.59 | Image: logs\entries\2026-10-16\person_VISITOR_0044_142530_919.jpg
+2026-10-16 14:25:30 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0044 | Total Count: 44
+2026-10-16 14:25:31 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 109 recognized as VISITOR_0044 | Similarity Score: 1.0000
+2026-10-16 14:25:31 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0044 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:31 | Conf: 1.00 | Image: logs\entries\2026-10-16\person_VISITOR_0044_142531_058.jpg
+2026-10-16 14:25:31 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:31 | Session Duration: 3.5 seconds
+2026-10-16 14:25:31 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:31 | Session Duration: 3.2 seconds
+2026-10-16 14:25:32 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:32 | Session Duration: 6.8 seconds
+2026-10-16 14:25:32 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 110 recognized as VISITOR_0001 | Similarity Score: 0.8850
+2026-10-16 14:25:32 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:32 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142532_467.jpg
+2026-10-16 14:25:33 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 111 recognized as VISITOR_0001 | Similarity Score: 0.8845
+2026-10-16 14:25:33 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:33 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142533_371.jpg
+2026-10-16 14:25:33 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0044 | Time: 2026-10-16 14:25:33 | Session Duration: 3.1 seconds
+2026-10-16 14:25:33 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 112 recognized as VISITOR_0001 | Similarity Score: 0.8879
+2026-10-16 14:25:33 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:33 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142533_784.jpg
+2026-10-16 14:25:34 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 113 recognized as VISITOR_0001 | Similarity Score: 0.8925
+2026-10-16 14:25:34 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:34 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142534_773.jpg
+2026-10-16 14:25:35 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0044 | Time: 2026-10-16 14:25:35 | Session Duration: 4.8 seconds
+2026-10-16 14:25:35 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 114 recognized as VISITOR_0035 | Similarity Score: 0.5613
+2026-10-16 14:25:35 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0035 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:35 | Conf: 0.56 | Image: logs\entries\2026-10-16\person_VISITOR_0035_142535_592.jpg
+2026-10-16 14:25:36 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 115 recognized as VISITOR_0001 | Similarity Score: 0.8965
+2026-10-16 14:25:36 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:36 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142536_015.jpg
+2026-10-16 14:25:36 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0043 | Time: 2026-10-16 14:25:36 | Session Duration: 10.7 seconds
+2026-10-16 14:25:36 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:36 | Session Duration: 3.9 seconds
+2026-10-16 14:25:36 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:36 | Session Duration: 3.3 seconds
+2026-10-16 14:25:36 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:36 | Session Duration: 3.0 seconds
+2026-10-16 14:25:36 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 116 recognized as VISITOR_0001 | Similarity Score: 0.8920
+2026-10-16 14:25:36 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:36 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142536_746.jpg
+2026-10-16 14:25:38 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 117 recognized as VISITOR_0001 | Similarity Score: 0.8864
+2026-10-16 14:25:38 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:38 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142538_471.jpg
+2026-10-16 14:25:38 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:38 | Session Duration: 4.1 seconds
+2026-10-16 14:25:39 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0035 | Time: 2026-10-16 14:25:39 | Session Duration: 4.0 seconds
+2026-10-16 14:25:39 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:39 | Session Duration: 4.0 seconds
+2026-10-16 14:25:39 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 118 recognized as VISITOR_0001 | Similarity Score: 0.8700
+2026-10-16 14:25:39 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:39 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142539_887.jpg
+2026-10-16 14:25:41 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 119 recognized as VISITOR_0001 | Similarity Score: 0.8785
+2026-10-16 14:25:41 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:41 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142541_288.jpg
+2026-10-16 14:25:41 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 120 recognized as VISITOR_0001 | Similarity Score: 0.8785
+2026-10-16 14:25:41 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:41 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142541_384.jpg
+2026-10-16 14:25:41 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:41 | Session Duration: 5.8 seconds
+2026-10-16 14:25:42 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 121 recognized as VISITOR_0001 | Similarity Score: 0.8663
+2026-10-16 14:25:42 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:42 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142542_296.jpg
+2026-10-16 14:25:43 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:43 | Session Duration: 3.2 seconds
+2026-10-16 14:25:44 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 122 recognized as VISITOR_0001 | Similarity Score: 0.8601
+2026-10-16 14:25:44 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:44 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142544_260.jpg
+2026-10-16 14:25:44 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:44 | Session Duration: 4.0 seconds
+2026-10-16 14:25:45 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:45 | Session Duration: 3.5 seconds
+2026-10-16 14:25:47 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 123 recognized as VISITOR_0001 | Similarity Score: 0.8775
+2026-10-16 14:25:47 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:47 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142547_657.jpg
+2026-10-16 14:25:47 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:47 | Session Duration: 9.3 seconds
+2026-10-16 14:25:48 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 124 recognized as VISITOR_0001 | Similarity Score: 0.8654
+2026-10-16 14:25:48 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:48 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142548_248.jpg
+2026-10-16 14:25:49 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:49 | Session Duration: 5.4 seconds
+2026-10-16 14:25:50 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 126 recognized as VISITOR_0035 | Similarity Score: 0.5459
+2026-10-16 14:25:50 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0035 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:50 | Conf: 0.55 | Image: logs\entries\2026-10-16\person_VISITOR_0035_142550_785.jpg
+2026-10-16 14:25:51 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 125 recognized as VISITOR_0001 | Similarity Score: 0.8667
+2026-10-16 14:25:51 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:51 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142551_434.jpg
+2026-10-16 14:25:52 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:52 | Session Duration: 14.4 seconds
+2026-10-16 14:25:52 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:52 | Session Duration: 4.9 seconds
+2026-10-16 14:25:52 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 127 recognized as VISITOR_0035 | Similarity Score: 0.6131
+2026-10-16 14:25:52 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0035 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:52 | Conf: 0.61 | Image: logs\entries\2026-10-16\person_VISITOR_0035_142552_602.jpg
+2026-10-16 14:25:53 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:53 | Session Duration: 5.2 seconds
+2026-10-16 14:25:53 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 128 recognized as VISITOR_0001 | Similarity Score: 0.8755
+2026-10-16 14:25:53 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:53 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142553_478.jpg
+2026-10-16 14:25:54 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 129 recognized as VISITOR_0001 | Similarity Score: 0.8653
+2026-10-16 14:25:54 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:54 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142554_319.jpg
+2026-10-16 14:25:54 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 130 recognized as VISITOR_0001 | Similarity Score: 0.8767
+2026-10-16 14:25:54 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:54 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142554_773.jpg
+2026-10-16 14:25:55 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:55 | Session Duration: 4.6 seconds
+2026-10-16 14:25:55 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0035 | Time: 2026-10-16 14:25:55 | Session Duration: 4.6 seconds
+2026-10-16 14:25:56 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0035 | Time: 2026-10-16 14:25:56 | Session Duration: 3.9 seconds
+2026-10-16 14:25:56 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:56 | Session Duration: 3.0 seconds
+2026-10-16 14:25:56 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0045 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:25:56 | Conf: 0.67 | Image: logs\entries\2026-10-16\person_VISITOR_0045_142556_516.jpg
+2026-10-16 14:25:56 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0045 | Total Count: 45
+2026-10-16 14:25:57 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 133 recognized as VISITOR_0001 | Similarity Score: 0.8700
+2026-10-16 14:25:57 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:57 | Conf: 0.87 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142557_398.jpg
+2026-10-16 14:25:58 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 131 recognized as VISITOR_0001 | Similarity Score: 0.8646
+2026-10-16 14:25:58 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:25:58 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142558_029.jpg
+2026-10-16 14:25:58 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:58 | Session Duration: 4.9 seconds
+2026-10-16 14:25:58 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:25:58 | Session Duration: 4.6 seconds
+2026-10-16 14:25:59 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0045 | Time: 2026-10-16 14:25:59 | Session Duration: 3.3 seconds
+2026-10-16 14:26:00 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:26:00 | Session Duration: 4.1 seconds
+2026-10-16 14:26:02 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 134 recognized as VISITOR_0001 | Similarity Score: 0.8448
+2026-10-16 14:26:02 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:26:02 | Conf: 0.84 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142602_661.jpg
+2026-10-16 14:26:03 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 135 recognized as VISITOR_0001 | Similarity Score: 0.8371
+2026-10-16 14:26:03 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:26:03 | Conf: 0.84 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142603_016.jpg
+2026-10-16 14:26:05 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 136 recognized as VISITOR_0001 | Similarity Score: 0.8197
+2026-10-16 14:26:05 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:26:05 | Conf: 0.82 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142605_057.jpg
+2026-10-16 14:26:05 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:26:05 | Session Duration: 2.8 seconds
+2026-10-16 14:26:05 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 137 recognized as VISITOR_0001 | Similarity Score: 0.8495
+2026-10-16 14:26:05 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:26:05 | Conf: 0.85 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142605_891.jpg
+2026-10-16 14:26:06 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 138 recognized as VISITOR_0001 | Similarity Score: 0.8771
+2026-10-16 14:26:06 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:26:06 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142606_711.jpg
+2026-10-16 14:26:07 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:26:07 | Session Duration: 5.0 seconds
+2026-10-16 14:26:07 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:26:07 | Session Duration: 2.8 seconds
+2026-10-16 14:26:07 [INFO] [MainPipeline]: Keyboard interrupt received. Terminating gracefully...
+2026-10-16 14:26:07 [INFO] [MainPipeline]: Flushing exit logs for active tracks before system shutdown...
+2026-10-16 14:26:07 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:26:07 | Session Duration: 95.8 seconds
+2026-10-16 14:26:07 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:26:07 | Session Duration: 10.8 seconds
+2026-10-16 14:26:07 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:26:07 | Session Duration: 2.4 seconds
+2026-10-16 14:26:07 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:26:07 | Session Duration: 2.0 seconds
+2026-10-16 14:28:37 [INFO] [MainPipeline]: ======================================================================
+2026-10-16 14:28:37 [INFO] [MainPipeline]: STARTING INTELLIGENT FACE TRACKER & VISITOR COUNTING PIPELINE
+2026-10-16 14:28:37 [INFO] [MainPipeline]: ======================================================================
+2026-10-16 14:28:37 [INFO] [MainPipeline]: Loaded 45 registered visitor identities from database.
+2026-10-16 14:28:44 [INFO] [MainPipeline]: Attempting to connect to video source: 0
+2026-10-16 14:28:47 [INFO] [MainPipeline]: Stream opened successfully. Resolution: 640x480 | FPS: 30.0 | Total Frames: -1
+2026-10-16 14:28:51 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 1 recognized as VISITOR_0001 | Similarity Score: 0.8927
+2026-10-16 14:28:51 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:28:51 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142851_667.jpg
+2026-10-16 14:28:51 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 2 recognized as VISITOR_0001 | Similarity Score: 0.8594
+2026-10-16 14:28:51 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:28:51 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142851_947.jpg
+2026-10-16 14:28:52 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 3 recognized as VISITOR_0001 | Similarity Score: 0.8635
+2026-10-16 14:28:52 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:28:52 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142852_159.jpg
+2026-10-16 14:28:57 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0046 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:28:57 | Conf: 0.53 | Image: logs\entries\2026-10-16\person_VISITOR_0046_142857_054.jpg
+2026-10-16 14:28:57 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0046 | Total Count: 46
+2026-10-16 14:28:58 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0046 | Time: 2026-10-16 14:28:58 | Session Duration: 1.6 seconds
+2026-10-16 14:28:58 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 5 recognized as VISITOR_0046 | Similarity Score: 0.6879
+2026-10-16 14:28:58 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0046 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:28:58 | Conf: 0.69 | Image: logs\entries\2026-10-16\person_VISITOR_0046_142858_534.jpg
+2026-10-16 14:28:59 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0047 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:28:59 | Conf: 0.62 | Image: logs\entries\2026-10-16\person_VISITOR_0047_142859_916.jpg
+2026-10-16 14:28:59 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0047 | Total Count: 47
+2026-10-16 14:29:00 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0046 | Time: 2026-10-16 14:29:00 | Session Duration: 2.0 seconds
+2026-10-16 14:29:00 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0048 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:29:00 | Conf: 0.66 | Image: logs\entries\2026-10-16\person_VISITOR_0048_142900_894.jpg
+2026-10-16 14:29:00 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0048 | Total Count: 48
+2026-10-16 14:29:01 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 8 recognized as VISITOR_0001 | Similarity Score: 0.8975
+2026-10-16 14:29:01 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:01 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142901_338.jpg
+2026-10-16 14:29:01 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0047 | Time: 2026-10-16 14:29:01 | Session Duration: 1.7 seconds
+2026-10-16 14:29:02 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 9 recognized as VISITOR_0002 | Similarity Score: 0.5907
+2026-10-16 14:29:02 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0002 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:02 | Conf: 0.59 | Image: logs\entries\2026-10-16\person_VISITOR_0002_142902_148.jpg
+2026-10-16 14:29:03 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 10 recognized as VISITOR_0001 | Similarity Score: 0.9013
+2026-10-16 14:29:03 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:03 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142903_168.jpg
+2026-10-16 14:29:03 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0002 | Time: 2026-10-16 14:29:03 | Session Duration: 1.3 seconds
+2026-10-16 14:29:03 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 11 recognized as VISITOR_0001 | Similarity Score: 0.8980
+2026-10-16 14:29:03 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:03 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142903_653.jpg
+2026-10-16 14:29:03 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 12 recognized as VISITOR_0001 | Similarity Score: 0.8988
+2026-10-16 14:29:03 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:03 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142903_862.jpg
+2026-10-16 14:29:03 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:03 | Session Duration: 2.7 seconds
+2026-10-16 14:29:04 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:04 | Session Duration: 12.7 seconds
+2026-10-16 14:29:04 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0048 | Time: 2026-10-16 14:29:04 | Session Duration: 4.0 seconds
+2026-10-16 14:29:04 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0049 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:29:04 | Conf: 0.75 | Image: logs\entries\2026-10-16\person_VISITOR_0049_142904_636.jpg
+2026-10-16 14:29:04 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0049 | Total Count: 49
+2026-10-16 14:29:04 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:04 | Session Duration: 1.8 seconds
+2026-10-16 14:29:05 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:05 | Session Duration: 1.8 seconds
+2026-10-16 14:29:06 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 14 recognized as VISITOR_0001 | Similarity Score: 0.8902
+2026-10-16 14:29:06 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:06 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142906_646.jpg
+2026-10-16 14:29:07 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:07 | Session Duration: 4.0 seconds
+2026-10-16 14:29:07 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:07 | Session Duration: 1.4 seconds
+2026-10-16 14:29:07 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 15 recognized as VISITOR_0001 | Similarity Score: 0.8847
+2026-10-16 14:29:07 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:07 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142907_978.jpg
+2026-10-16 14:29:09 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 16 recognized as VISITOR_0045 | Similarity Score: 0.5685
+2026-10-16 14:29:09 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0045 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:09 | Conf: 0.57 | Image: logs\entries\2026-10-16\person_VISITOR_0045_142909_751.jpg
+2026-10-16 14:29:10 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:10 | Session Duration: 2.7 seconds
+2026-10-16 14:29:13 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 17 recognized as VISITOR_0036 | Similarity Score: 0.5426
+2026-10-16 14:29:13 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0036 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:13 | Conf: 0.54 | Image: logs\entries\2026-10-16\person_VISITOR_0036_142913_416.jpg
+2026-10-16 14:29:13 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0045 | Time: 2026-10-16 14:29:13 | Session Duration: 4.3 seconds
+2026-10-16 14:29:14 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 18 recognized as VISITOR_0049 | Similarity Score: 0.5032
+2026-10-16 14:29:14 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0049 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:14 | Conf: 0.50 | Image: logs\entries\2026-10-16\person_VISITOR_0049_142914_465.jpg
+2026-10-16 14:29:14 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 19 recognized as VISITOR_0035 | Similarity Score: 0.5679
+2026-10-16 14:29:14 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0035 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:14 | Conf: 0.57 | Image: logs\entries\2026-10-16\person_VISITOR_0035_142914_590.jpg
+2026-10-16 14:29:15 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 20 recognized as VISITOR_0001 | Similarity Score: 0.8926
+2026-10-16 14:29:15 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:15 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142915_086.jpg
+2026-10-16 14:29:15 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0050 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:29:15 | Conf: 0.61 | Image: logs\entries\2026-10-16\person_VISITOR_0050_142915_185.jpg
+2026-10-16 14:29:15 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0050 | Total Count: 50
+2026-10-16 14:29:15 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0049 | Time: 2026-10-16 14:29:15 | Session Duration: 10.9 seconds
+2026-10-16 14:29:15 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0036 | Time: 2026-10-16 14:29:15 | Session Duration: 2.4 seconds
+2026-10-16 14:29:15 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0049 | Time: 2026-10-16 14:29:15 | Session Duration: 1.6 seconds
+2026-10-16 14:29:16 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 22 recognized as VISITOR_0045 | Similarity Score: 0.5321
+2026-10-16 14:29:16 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0045 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:16 | Conf: 0.53 | Image: logs\entries\2026-10-16\person_VISITOR_0045_142916_180.jpg
+2026-10-16 14:29:16 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 23 recognized as VISITOR_0001 | Similarity Score: 0.8996
+2026-10-16 14:29:16 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:16 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142916_826.jpg
+2026-10-16 14:29:16 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:16 | Session Duration: 2.0 seconds
+2026-10-16 14:29:16 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0050 | Time: 2026-10-16 14:29:16 | Session Duration: 2.0 seconds
+2026-10-16 14:29:17 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 24 recognized as VISITOR_0001 | Similarity Score: 0.8977
+2026-10-16 14:29:17 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:17 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142917_621.jpg
+2026-10-16 14:29:17 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0045 | Time: 2026-10-16 14:29:17 | Session Duration: 1.7 seconds
+2026-10-16 14:29:17 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 25 recognized as VISITOR_0001 | Similarity Score: 0.8982
+2026-10-16 14:29:18 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:17 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142918_002.jpg
+2026-10-16 14:29:18 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:18 | Session Duration: 26.5 seconds
+2026-10-16 14:29:18 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:18 | Session Duration: 1.5 seconds
+2026-10-16 14:29:18 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 26 recognized as VISITOR_0001 | Similarity Score: 0.8991
+2026-10-16 14:29:18 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:18 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142918_537.jpg
+2026-10-16 14:29:18 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 27 recognized as VISITOR_0001 | Similarity Score: 0.9154
+2026-10-16 14:29:18 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:18 | Conf: 0.92 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142918_770.jpg
+2026-10-16 14:29:19 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 28 recognized as VISITOR_0035 | Similarity Score: 0.5256
+2026-10-16 14:29:19 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0035 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:19 | Conf: 0.53 | Image: logs\entries\2026-10-16\person_VISITOR_0035_142919_126.jpg
+2026-10-16 14:29:19 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:19 | Session Duration: 1.9 seconds
+2026-10-16 14:29:19 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:19 | Session Duration: 1.8 seconds
+2026-10-16 14:29:19 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:19 | Session Duration: 1.5 seconds
+2026-10-16 14:29:20 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:20 | Session Duration: 1.8 seconds
+2026-10-16 14:29:20 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0051 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:29:20 | Conf: 0.55 | Image: logs\entries\2026-10-16\person_VISITOR_0051_142920_548.jpg
+2026-10-16 14:29:20 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0051 | Total Count: 51
+2026-10-16 14:29:21 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 30 recognized as VISITOR_0045 | Similarity Score: 0.5521
+2026-10-16 14:29:21 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0045 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:21 | Conf: 0.55 | Image: logs\entries\2026-10-16\person_VISITOR_0045_142921_248.jpg
+2026-10-16 14:29:21 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 31 recognized as VISITOR_0001 | Similarity Score: 0.9041
+2026-10-16 14:29:21 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:21 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142921_915.jpg
+2026-10-16 14:29:22 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 32 recognized as VISITOR_0045 | Similarity Score: 0.6026
+2026-10-16 14:29:22 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0045 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:22 | Conf: 0.60 | Image: logs\entries\2026-10-16\person_VISITOR_0045_142922_458.jpg
+2026-10-16 14:29:22 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0045 | Time: 2026-10-16 14:29:22 | Session Duration: 2.2 seconds
+2026-10-16 14:29:22 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0035 | Time: 2026-10-16 14:29:22 | Session Duration: 3.8 seconds
+2026-10-16 14:29:23 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 35 recognized as VISITOR_0001 | Similarity Score: 0.9006
+2026-10-16 14:29:23 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:23 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142923_098.jpg
+2026-10-16 14:29:23 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 34 recognized as VISITOR_0001 | Similarity Score: 0.9050
+2026-10-16 14:29:23 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:23 | Conf: 0.91 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142923_402.jpg
+2026-10-16 14:29:23 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0051 | Time: 2026-10-16 14:29:23 | Session Duration: 3.2 seconds
+2026-10-16 14:29:23 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:23 | Session Duration: 1.9 seconds
+2026-10-16 14:29:23 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 33 recognized as VISITOR_0035 | Similarity Score: 0.5732
+2026-10-16 14:29:23 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0035 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:23 | Conf: 0.57 | Image: logs\entries\2026-10-16\person_VISITOR_0035_142923_795.jpg
+2026-10-16 14:29:24 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0045 | Time: 2026-10-16 14:29:24 | Session Duration: 2.1 seconds
+2026-10-16 14:29:24 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0052 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:29:24 | Conf: 0.63 | Image: logs\entries\2026-10-16\person_VISITOR_0052_142924_441.jpg
+2026-10-16 14:29:24 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0052 | Total Count: 52
+2026-10-16 14:29:24 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 37 recognized as VISITOR_0001 | Similarity Score: 0.8983
+2026-10-16 14:29:24 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:24 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142924_564.jpg
+2026-10-16 14:29:25 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 40 recognized as VISITOR_0052 | Similarity Score: 0.6971
+2026-10-16 14:29:25 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0052 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:25 | Conf: 0.70 | Image: logs\entries\2026-10-16\person_VISITOR_0052_142925_409.jpg
+2026-10-16 14:29:25 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0035 | Time: 2026-10-16 14:29:25 | Session Duration: 11.1 seconds
+2026-10-16 14:29:25 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:25 | Session Duration: 2.7 seconds
+2026-10-16 14:29:25 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 38 recognized as VISITOR_0001 | Similarity Score: 0.8914
+2026-10-16 14:29:25 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:25 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142925_651.jpg
+2026-10-16 14:29:25 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:25 | Session Duration: 2.9 seconds
+2026-10-16 14:29:25 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0035 | Time: 2026-10-16 14:29:25 | Session Duration: 3.6 seconds
+2026-10-16 14:29:25 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:25 | Session Duration: 1.8 seconds
+2026-10-16 14:29:26 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0052 | Time: 2026-10-16 14:29:26 | Session Duration: 1.6 seconds
+2026-10-16 14:29:26 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 41 recognized as VISITOR_0001 | Similarity Score: 0.8906
+2026-10-16 14:29:26 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:26 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142926_952.jpg
+2026-10-16 14:29:26 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:26 | Session Duration: 2.1 seconds
+2026-10-16 14:29:28 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 42 recognized as VISITOR_0001 | Similarity Score: 0.8981
+2026-10-16 14:29:28 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:28 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142928_271.jpg
+2026-10-16 14:29:28 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:28 | Session Duration: 2.2 seconds
+2026-10-16 14:29:28 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 43 recognized as VISITOR_0001 | Similarity Score: 0.8955
+2026-10-16 14:29:28 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:28 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142928_994.jpg
+2026-10-16 14:29:29 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:29 | Session Duration: 1.5 seconds
+2026-10-16 14:29:29 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 44 recognized as VISITOR_0001 | Similarity Score: 0.7175
+2026-10-16 14:29:29 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:29 | Conf: 0.72 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142929_962.jpg
+2026-10-16 14:29:30 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:30 | Session Duration: 1.3 seconds
+2026-10-16 14:29:30 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0053 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:29:30 | Conf: 0.63 | Image: logs\entries\2026-10-16\person_VISITOR_0053_142930_448.jpg
+2026-10-16 14:29:30 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0053 | Total Count: 53
+2026-10-16 14:29:30 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 46 recognized as VISITOR_0053 | Similarity Score: 0.7077
+2026-10-16 14:29:30 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0053 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:30 | Conf: 0.71 | Image: logs\entries\2026-10-16\person_VISITOR_0053_142930_579.jpg
+2026-10-16 14:29:32 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 48 recognized as VISITOR_0040 | Similarity Score: 0.6735
+2026-10-16 14:29:32 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0040 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:32 | Conf: 0.67 | Image: logs\entries\2026-10-16\person_VISITOR_0040_142932_076.jpg
+2026-10-16 14:29:32 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:32 | Session Duration: 2.6 seconds
+2026-10-16 14:29:32 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0053 | Time: 2026-10-16 14:29:32 | Session Duration: 1.9 seconds
+2026-10-16 14:29:32 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0052 | Time: 2026-10-16 14:29:32 | Session Duration: 8.6 seconds
+2026-10-16 14:29:32 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0053 | Time: 2026-10-16 14:29:32 | Session Duration: 2.5 seconds
+2026-10-16 14:29:33 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0040 | Time: 2026-10-16 14:29:33 | Session Duration: 1.2 seconds
+2026-10-16 14:29:34 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 49 recognized as VISITOR_0035 | Similarity Score: 0.5948
+2026-10-16 14:29:34 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0035 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:34 | Conf: 0.59 | Image: logs\entries\2026-10-16\person_VISITOR_0035_142934_083.jpg
+2026-10-16 14:29:34 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 50 recognized as VISITOR_0001 | Similarity Score: 0.6984
+2026-10-16 14:29:34 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:34 | Conf: 0.70 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142934_334.jpg
+2026-10-16 14:29:34 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 51 recognized as VISITOR_0001 | Similarity Score: 0.6984
+2026-10-16 14:29:34 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:34 | Conf: 0.70 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142934_435.jpg
+2026-10-16 14:29:34 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 52 recognized as VISITOR_0001 | Similarity Score: 0.7429
+2026-10-16 14:29:34 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:34 | Conf: 0.74 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142934_703.jpg
+2026-10-16 14:29:36 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 53 recognized as VISITOR_0052 | Similarity Score: 0.6475
+2026-10-16 14:29:36 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0052 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:36 | Conf: 0.65 | Image: logs\entries\2026-10-16\person_VISITOR_0052_142936_603.jpg
+2026-10-16 14:29:36 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 54 recognized as VISITOR_0001 | Similarity Score: 0.8775
+2026-10-16 14:29:36 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:36 | Conf: 0.88 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142936_985.jpg
+2026-10-16 14:29:37 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:37 | Session Duration: 3.5 seconds
+2026-10-16 14:29:37 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 56 recognized as VISITOR_0052 | Similarity Score: 0.6151
+2026-10-16 14:29:37 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0052 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:37 | Conf: 0.62 | Image: logs\entries\2026-10-16\person_VISITOR_0052_142937_919.jpg
+2026-10-16 14:29:37 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0052 | Time: 2026-10-16 14:29:37 | Session Duration: 1.6 seconds
+2026-10-16 14:29:38 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:38 | Session Duration: 4.1 seconds
+2026-10-16 14:29:38 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 55 recognized as VISITOR_0035 | Similarity Score: 0.5775
+2026-10-16 14:29:38 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0035 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:38 | Conf: 0.58 | Image: logs\entries\2026-10-16\person_VISITOR_0035_142938_455.jpg
+2026-10-16 14:29:38 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0054 | Status: NEW_REGISTRATION | Time: 2026-10-16 14:29:38 | Conf: 0.68 | Image: logs\entries\2026-10-16\person_VISITOR_0054_142938_490.jpg
+2026-10-16 14:29:38 [INFO] [MainPipeline]: >> NEW VISITOR AUTO-REGISTERED: VISITOR_0054 | Total Count: 54
+2026-10-16 14:29:38 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:38 | Session Duration: 1.8 seconds
+2026-10-16 14:29:39 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:39 | Session Duration: 5.4 seconds
+2026-10-16 14:29:39 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0035 | Time: 2026-10-16 14:29:39 | Session Duration: 2.2 seconds
+2026-10-16 14:29:40 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 58 recognized as VISITOR_0001 | Similarity Score: 0.7214
+2026-10-16 14:29:40 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:40 | Conf: 0.72 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142940_083.jpg
+2026-10-16 14:29:40 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 59 recognized as VISITOR_0001 | Similarity Score: 0.7589
+2026-10-16 14:29:40 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:40 | Conf: 0.76 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142940_883.jpg
+2026-10-16 14:29:41 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0052 | Time: 2026-10-16 14:29:41 | Session Duration: 3.8 seconds
+2026-10-16 14:29:41 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:41 | Session Duration: 2.0 seconds
+2026-10-16 14:29:42 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 60 recognized as VISITOR_0054 | Similarity Score: 0.6369
+2026-10-16 14:29:42 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0054 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:42 | Conf: 0.64 | Image: logs\entries\2026-10-16\person_VISITOR_0054_142942_261.jpg
+2026-10-16 14:29:42 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0054 | Time: 2026-10-16 14:29:42 | Session Duration: 4.5 seconds
+2026-10-16 14:29:43 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 61 recognized as VISITOR_0001 | Similarity Score: 0.8287
+2026-10-16 14:29:43 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:43 | Conf: 0.83 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142943_784.jpg
+2026-10-16 14:29:43 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0035 | Time: 2026-10-16 14:29:43 | Session Duration: 10.2 seconds
+2026-10-16 14:29:44 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 62 recognized as VISITOR_0054 | Similarity Score: 0.6212
+2026-10-16 14:29:44 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0054 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:44 | Conf: 0.62 | Image: logs\entries\2026-10-16\person_VISITOR_0054_142944_681.jpg
+2026-10-16 14:29:44 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 63 recognized as VISITOR_0001 | Similarity Score: 0.8592
+2026-10-16 14:29:45 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:44 | Conf: 0.86 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142945_003.jpg
+2026-10-16 14:29:45 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0054 | Time: 2026-10-16 14:29:45 | Session Duration: 2.9 seconds
+2026-10-16 14:29:45 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:45 | Session Duration: 2.0 seconds
+2026-10-16 14:29:49 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 64 recognized as VISITOR_0001 | Similarity Score: 0.8991
+2026-10-16 14:29:49 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:49 | Conf: 0.90 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142949_462.jpg
+2026-10-16 14:29:50 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:50 | Session Duration: 5.6 seconds
+2026-10-16 14:29:52 [INFO] [FaceTracker]: [RECOGNITION] Track ID: 65 recognized as VISITOR_0001 | Similarity Score: 0.8941
+2026-10-16 14:29:52 [INFO] [FaceTracker]: [ENTRY] Person: VISITOR_0001 | Status: KNOWN_VISITOR | Time: 2026-10-16 14:29:52 | Conf: 0.89 | Image: logs\entries\2026-10-16\person_VISITOR_0001_142952_978.jpg
+2026-10-16 14:29:53 [INFO] [MainPipeline]: Keyboard interrupt received. Terminating gracefully...
+2026-10-16 14:29:53 [INFO] [MainPipeline]: Flushing exit logs for active tracks before system shutdown...
+2026-10-16 14:29:53 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:53 | Session Duration: 62.2 seconds
+2026-10-16 14:29:53 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0001 | Time: 2026-10-16 14:29:53 | Session Duration: 13.2 seconds
+2026-10-16 14:29:53 [INFO] [FaceTracker]: [EXIT] Person: VISITOR_0054 | Time: 2026-10-16 14:29:53 | Session Duration: 9.3 seconds

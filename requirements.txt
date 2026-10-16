@@ -1,0 +1,23 @@
+# Core Deep Learning & Computer Vision
+ultralytics>=8.0.196
+insightface>=0.7.3
+opencv-python>=4.8.0.76
+numpy>=1.23.5
+scipy>=1.10.1
+
+# ONNX Runtime (Default CPU; for NVIDIA GPU, replace with onnxruntime-gpu)
+onnxruntime>=1.15.1
+# onnxruntime-gpu>=1.15.1  # Uncomment if CUDA 11.8+ / 12.x and cuDNN are installed
+
+# PyTorch (Required by Ultralytics YOLOv8)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Database Drivers (SQLite is built-in; PyMySQL for MySQL database)
+pymysql>=1.1.0
+cryptography>=40.0.0
+
+# Image & Data Utilities
+Pillow>=9.5.0
+tqdm>=4.65.0
+requests>=2.31.0
